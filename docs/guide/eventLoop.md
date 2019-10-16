@@ -4,9 +4,22 @@
 
 > 本文是[弄懂Event Loop](https://juejin.im/post/5c3d8956e51d4511dc72c200?utm_source=gold_browser_extension#comment)的删改版，去除了原文中一些容易引起歧义的部分，对一些内容进行了扩充
 
+## Event Loop 问题 
+
+* 为啥要弄懂Event Loop
+* 栈、队列的基本概念
+* Event Loop
+* 浏览器中的Event Loop
+* 举个例子
+* 再举个例子
+* NodeJS的Event Loop
+* setImmediate() 的setTimeout()的区别
+* Process.nextTick()
+
 ## 前言
 `Event Loop`即事件循环，是指浏览器或`Node`的一种解决`javaScript`单线程运行时不会阻塞的一种机制，也就是我们经常使用**异步**的原理。
 <a name="Kec8C"></a>
+
 ## 为啥要弄懂Event Loop
 
 - 是要增加自己技术的深度，也就是懂得`JavaScript`的运行机制。<br />

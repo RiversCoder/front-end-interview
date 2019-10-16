@@ -6,6 +6,16 @@
 
 ---
 
+## 列表
+
+* 一、合成事件中的`setState`
+* 二、生命周期函数中的`setState`
+* 三、原生事件中的`setState`
+* 四、setTimeout中的`setState`
+* 五、`setState`中的批量更新
+
+---
+
 > 面试官：“react中`setState`是同步的还是异步？”
 > 我：“异步的，`setState`不能立马拿到结果。”
 

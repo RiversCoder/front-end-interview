@@ -4,6 +4,22 @@
 
 webpack是事实上的前端打包标准,相关的面试题也是面试的热点.
 
+## 列表
+
+* webpack与grunt、gulp的不同？
+* webpack、rollup、parcel优劣？
+* 有哪些常见的Loader？
+* 有哪些常见的Plugin？
+* 分别介绍bundle，chunk，module是什么
+* Loader和Plugin的不同？
+* webpack的构建流程是什么?
+* 是否写过Loader和Plugin？描述一下编写loader或plugin的思路？
+* webpack的热更新是如何做到的？说明其原理？
+* 如何用webpack来优化前端性能？
+* 如何提高webpack的打包速度?
+* 如何提高webpack的构建速度？
+* 怎么配置单页应用？怎么配置多页应用？
+
 ## webpack与grunt、gulp的不同？
 
 Grunt、Gulp是基于任务运行的工具：

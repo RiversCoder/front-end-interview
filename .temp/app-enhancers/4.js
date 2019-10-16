@@ -1,1 +1,1 @@
-export { default } from "/Users/dxy/Documents/dxy-gzh/front-end-interview/node_modules/@vuepress/plugin-pwa/lib/enhanceAppFile.js"
+export { default } from "D:\\me\\vue\\vuepress\\front-end-interview\\node_modules\\_@vuepress_plugin-pwa@1.2.0@@vuepress\\plugin-pwa\\lib\\enhanceAppFile.js"

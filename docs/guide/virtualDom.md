@@ -4,6 +4,13 @@
 
 > 写完之后才发现了一篇百度EFE的好文,大家可以移步[Vitual DOM 的内部工作原理](https://efe.baidu.com/blog/the-inner-workings-of-virtual-dom/)
 
+## 列表
+
+* 什么是Virtual DOM
+* 为什么需要Virtual DOM
+* Virtual DOM的关键要素
+* Virtual DOM的优化
+
 ## 什么是Virtual DOM
 
 Virtual DOM是对DOM的抽象,本质上是JavaScript对象,这个对象就是更加轻量级的对DOM的描述.

@@ -31,120 +31,15 @@ export const siteData = {
       },
       "regularPath": "/",
       "relativePath": "README.md",
-      "key": "v-7364f2b6",
+      "key": "v-0c9ba8da",
       "path": "/"
-    },
-    {
-      "title": "Webpack HMR 原理解析",
-      "frontmatter": {},
-      "regularPath": "/guide/WebpackHMR.html",
-      "relativePath": "guide/WebpackHMR.md",
-      "key": "v-16db57dc",
-      "path": "/guide/WebpackHMR.html",
-      "headers": [
-        {
-          "level": 2,
-          "title": "为什么需要 HMR",
-          "slug": "为什么需要-hmr"
-        },
-        {
-          "level": 2,
-          "title": "HMR 的工作原理图解",
-          "slug": "hmr-的工作原理图解"
-        },
-        {
-          "level": 2,
-          "title": "运用 HMR 的简单例子",
-          "slug": "运用-hmr-的简单例子"
-        },
-        {
-          "level": 2,
-          "title": "写在最后",
-          "slug": "写在最后"
-        },
-        {
-          "level": 2,
-          "title": "公众号",
-          "slug": "公众号"
-        }
-      ]
-    },
-    {
-      "title": "React组件复用指南",
-      "frontmatter": {},
-      "regularPath": "/guide/abstract.html",
-      "relativePath": "guide/abstract.md",
-      "key": "v-5db7e350",
-      "path": "/guide/abstract.html",
-      "headers": [
-        {
-          "level": 2,
-          "title": "高阶组件(HOC)",
-          "slug": "高阶组件-hoc"
-        },
-        {
-          "level": 3,
-          "title": "什么是高阶组件？",
-          "slug": "什么是高阶组件？"
-        },
-        {
-          "level": 3,
-          "title": "HOC 工厂的实现方法",
-          "slug": "hoc-工厂的实现方法"
-        },
-        {
-          "level": 3,
-          "title": "反向继承(Inheritance Inversion)",
-          "slug": "反向继承-inheritance-inversion"
-        },
-        {
-          "level": 2,
-          "title": "Inheritance Inversion 的高阶组件不一定会解析完整子树",
-          "slug": "inheritance-inversion-的高阶组件不一定会解析完整子树"
-        },
-        {
-          "level": 3,
-          "title": "附录 A: HOC 和参数",
-          "slug": "附录-a-hoc-和参数"
-        },
-        {
-          "level": 2,
-          "title": "渲染属性(Render Props)",
-          "slug": "渲染属性-render-props"
-        },
-        {
-          "level": 3,
-          "title": "Mixins 存在的问题",
-          "slug": "mixins-存在的问题"
-        },
-        {
-          "level": 3,
-          "title": "HOC 是新的 Mixin",
-          "slug": "hoc-是新的-mixin"
-        },
-        {
-          "level": 3,
-          "title": "Render Props",
-          "slug": "render-props"
-        },
-        {
-          "level": 3,
-          "title": "Render Props > HOCs",
-          "slug": "render-props-hocs"
-        },
-        {
-          "level": 2,
-          "title": "公众号",
-          "slug": "公众号"
-        }
-      ]
     },
     {
       "title": "指南使用手册",
       "frontmatter": {},
       "regularPath": "/guide/",
       "relativePath": "guide/README.md",
-      "key": "v-a6b0f6ea",
+      "key": "v-743b8ab4",
       "path": "/guide/",
       "headers": [
         {
@@ -195,12 +90,206 @@ export const siteData = {
       ]
     },
     {
-      "title": "如何写一个babel",
+      "title": "书籍/课程推荐",
       "frontmatter": {},
-      "regularPath": "/guide/ast.html",
-      "relativePath": "guide/ast.md",
-      "key": "v-5535cbb6",
-      "path": "/guide/ast.html",
+      "regularPath": "/guide/book.html",
+      "relativePath": "guide/book.md",
+      "key": "v-342fcfcf",
+      "path": "/guide/book.html",
+      "headers": [
+        {
+          "level": 2,
+          "title": "书单",
+          "slug": "书单"
+        },
+        {
+          "level": 3,
+          "title": "JavaScript",
+          "slug": "javascript"
+        },
+        {
+          "level": 3,
+          "title": "CSS:",
+          "slug": "css"
+        },
+        {
+          "level": 3,
+          "title": "算法：",
+          "slug": "算法："
+        },
+        {
+          "level": 3,
+          "title": "安全：",
+          "slug": "安全："
+        },
+        {
+          "level": 3,
+          "title": "canvas：",
+          "slug": "canvas："
+        },
+        {
+          "level": 3,
+          "title": "Node",
+          "slug": "node"
+        },
+        {
+          "level": 3,
+          "title": "网络",
+          "slug": "网络"
+        },
+        {
+          "level": 2,
+          "title": "公众号",
+          "slug": "公众号"
+        }
+      ]
+    },
+    {
+      "frontmatter": {},
+      "regularPath": "/guide/babel.html",
+      "relativePath": "guide/babel.md",
+      "key": "v-0f12bd3b",
+      "path": "/guide/babel.html"
+    },
+    {
+      "title": "框架通用面试题",
+      "frontmatter": {},
+      "regularPath": "/guide/common.html",
+      "relativePath": "guide/common.md",
+      "key": "v-76ad6f4b",
+      "path": "/guide/common.html",
+      "headers": [
+        {
+          "level": 2,
+          "title": "为什么选择使用框架而不是原生?",
+          "slug": "为什么选择使用框架而不是原生"
+        },
+        {
+          "level": 2,
+          "title": "虚拟DOM的优劣如何?",
+          "slug": "虚拟dom的优劣如何"
+        },
+        {
+          "level": 2,
+          "title": "虚拟DOM实现原理?",
+          "slug": "虚拟dom实现原理"
+        },
+        {
+          "level": 2,
+          "title": "公众号",
+          "slug": "公众号"
+        }
+      ]
+    },
+    {
+      "frontmatter": {},
+      "regularPath": "/guide/composite.html",
+      "relativePath": "guide/composite.md",
+      "key": "v-0bbee04a",
+      "path": "/guide/composite.html"
+    },
+    {
+      "title": "设计模式",
+      "frontmatter": {},
+      "regularPath": "/guide/designPatterns.html",
+      "relativePath": "guide/designPatterns.md",
+      "key": "v-35d59dc2",
+      "path": "/guide/designPatterns.html"
+    },
+    {
+      "frontmatter": {},
+      "regularPath": "/guide/dataStructure.html",
+      "relativePath": "guide/dataStructure.md",
+      "key": "v-50a641ca",
+      "path": "/guide/dataStructure.html"
+    },
+    {
+      "title": "DOM",
+      "frontmatter": {},
+      "regularPath": "/guide/dom.html",
+      "relativePath": "guide/dom.md",
+      "key": "v-1ff9930a",
+      "path": "/guide/dom.html",
+      "headers": [
+        {
+          "level": 2,
+          "title": "DOM的事件模型是什么？",
+          "slug": "dom的事件模型是什么？"
+        },
+        {
+          "level": 2,
+          "title": "DOM的事件流是什么？",
+          "slug": "dom的事件流是什么？"
+        },
+        {
+          "level": 3,
+          "title": "事件冒泡",
+          "slug": "事件冒泡"
+        },
+        {
+          "level": 3,
+          "title": "事件捕获",
+          "slug": "事件捕获"
+        },
+        {
+          "level": 3,
+          "title": "事件流",
+          "slug": "事件流"
+        },
+        {
+          "level": 2,
+          "title": "什么是事件委托",
+          "slug": "什么是事件委托"
+        },
+        {
+          "level": 2,
+          "title": "公众号",
+          "slug": "公众号"
+        }
+      ]
+    },
+    {
+      "title": "关于前端框架的面试须知",
+      "frontmatter": {},
+      "regularPath": "/guide/framework.html",
+      "relativePath": "guide/framework.md",
+      "key": "v-6261258a",
+      "path": "/guide/framework.html",
+      "headers": [
+        {
+          "level": 2,
+          "title": "准备框架相关知识的误区",
+          "slug": "准备框架相关知识的误区"
+        },
+        {
+          "level": 3,
+          "title": "不要为了读源码而读源码",
+          "slug": "不要为了读源码而读源码"
+        },
+        {
+          "level": 3,
+          "title": "不建议读源码解读的文章",
+          "slug": "不建议读源码解读的文章"
+        },
+        {
+          "level": 3,
+          "title": "不建议为了面试而读源码",
+          "slug": "不建议为了面试而读源码"
+        },
+        {
+          "level": 2,
+          "title": "公众号",
+          "slug": "公众号"
+        }
+      ]
+    },
+    {
+      "title": "JavaScript的『预解释』与『变量提升』",
+      "frontmatter": {},
+      "regularPath": "/guide/hoisting.html",
+      "relativePath": "guide/hoisting.md",
+      "key": "v-f1de0a3a",
+      "path": "/guide/hoisting.html",
       "headers": [
         {
           "level": 2,
@@ -209,53 +298,1396 @@ export const siteData = {
         },
         {
           "level": 2,
-          "title": "前置",
-          "slug": "前置"
+          "title": "从一个实例开始",
+          "slug": "从一个实例开始"
         },
         {
           "level": 2,
-          "title": "代码解析",
-          "slug": "代码解析"
-        },
-        {
-          "level": 3,
-          "title": "parser 概念",
-          "slug": "parser-概念"
-        },
-        {
-          "level": 3,
-          "title": "词法分析(Tokenizer -- 词法分析器)",
-          "slug": "词法分析-tokenizer-词法分析器"
+          "title": "avaScript预解释",
+          "slug": "avascript预解释"
         },
         {
           "level": 2,
-          "title": "代码转换",
-          "slug": "代码转换"
-        },
-        {
-          "level": 3,
-          "title": "如何转换代码?",
-          "slug": "如何转换代码"
-        },
-        {
-          "level": 3,
-          "title": "遍历抽象语法树(实现遍历器traverser)",
-          "slug": "遍历抽象语法树-实现遍历器traverser"
-        },
-        {
-          "level": 3,
-          "title": "转换代码(实现转换器transformer)",
-          "slug": "转换代码-实现转换器transformer"
+          "title": "JavaScript执行环境",
+          "slug": "javascript执行环境"
         },
         {
           "level": 2,
-          "title": "生成代码(实现生成器generator)",
-          "slug": "生成代码-实现生成器generator"
+          "title": "变量提升",
+          "slug": "变量提升"
         },
         {
           "level": 2,
-          "title": "最后",
-          "slug": "最后"
+          "title": "函数声明与函数表达式",
+          "slug": "函数声明与函数表达式"
+        },
+        {
+          "level": 2,
+          "title": "冲突处理",
+          "slug": "冲突处理"
+        },
+        {
+          "level": 2,
+          "title": "ES6中的let",
+          "slug": "es6中的let"
+        },
+        {
+          "level": 2,
+          "title": "公众号",
+          "slug": "公众号"
+        }
+      ]
+    },
+    {
+      "title": "HTTP笔试部分",
+      "frontmatter": {},
+      "regularPath": "/guide/httpWritten.html",
+      "relativePath": "guide/httpWritten.md",
+      "key": "v-1f9d235b",
+      "path": "/guide/httpWritten.html",
+      "headers": [
+        {
+          "level": 2,
+          "title": "缓存题",
+          "slug": "缓存题"
+        },
+        {
+          "level": 3,
+          "title": "问题一：当点击“重新访问 page 页”链接重新加载该页面后， head.png 如何二次加载？",
+          "slug": "问题一：当点击“重新访问-page-页”链接重新加载该页面后，-head-png-如何二次加载？"
+        },
+        {
+          "level": 3,
+          "title": "问题二：如果将上述信息中的 Cache-Control 设置为 private，那么结果又会如何呢？",
+          "slug": "问题二：如果将上述信息中的-cache-control-设置为-private，那么结果又会如何呢？"
+        },
+        {
+          "level": 2,
+          "title": "公众号",
+          "slug": "公众号"
+        }
+      ]
+    },
+    {
+      "title": "Node.js面试题",
+      "frontmatter": {},
+      "regularPath": "/guide/node.html",
+      "relativePath": "guide/node.md",
+      "key": "v-5939009d",
+      "path": "/guide/node.html"
+    },
+    {
+      "title": "为什么会有这个项目",
+      "frontmatter": {},
+      "regularPath": "/guide/preface.html",
+      "relativePath": "guide/preface.md",
+      "key": "v-6ed0838a",
+      "path": "/guide/preface.html",
+      "headers": [
+        {
+          "level": 2,
+          "title": "大量的过时问题",
+          "slug": "大量的过时问题"
+        },
+        {
+          "level": 2,
+          "title": "深入浅出的不多",
+          "slug": "深入浅出的不多"
+        },
+        {
+          "level": 2,
+          "title": "缺乏基础知识",
+          "slug": "缺乏基础知识"
+        },
+        {
+          "level": 2,
+          "title": "方向不够全面",
+          "slug": "方向不够全面"
+        }
+      ]
+    },
+    {
+      "title": "字符串类面试题",
+      "frontmatter": {},
+      "regularPath": "/guide/string.html",
+      "relativePath": "guide/string.md",
+      "key": "v-4a7b4302",
+      "path": "/guide/string.html",
+      "headers": [
+        {
+          "level": 2,
+          "title": "列表",
+          "slug": "列表"
+        },
+        {
+          "level": 2,
+          "title": "解析 URL Params 为对象",
+          "slug": "解析-url-params-为对象"
+        },
+        {
+          "level": 2,
+          "title": "模板引擎实现",
+          "slug": "模板引擎实现"
+        },
+        {
+          "level": 2,
+          "title": "转化为驼峰命名",
+          "slug": "转化为驼峰命名"
+        },
+        {
+          "level": 2,
+          "title": "查找字符串中出现最多的字符和个数",
+          "slug": "查找字符串中出现最多的字符和个数"
+        },
+        {
+          "level": 2,
+          "title": "字符串查找",
+          "slug": "字符串查找"
+        },
+        {
+          "level": 2,
+          "title": "实现千位分隔符",
+          "slug": "实现千位分隔符"
+        },
+        {
+          "level": 2,
+          "title": "判断是否是电话号码",
+          "slug": "判断是否是电话号码"
+        },
+        {
+          "level": 2,
+          "title": "验证是否是邮箱",
+          "slug": "验证是否是邮箱"
+        },
+        {
+          "level": 2,
+          "title": "验证是否是身份证",
+          "slug": "验证是否是身份证"
+        },
+        {
+          "level": 2,
+          "title": "公众号",
+          "slug": "公众号"
+        }
+      ]
+    },
+    {
+      "title": "webpack 插件化设计",
+      "frontmatter": {},
+      "regularPath": "/guide/webpackPluginDesign.html",
+      "relativePath": "guide/webpackPluginDesign.md",
+      "key": "v-7b9dbefb",
+      "path": "/guide/webpackPluginDesign.html",
+      "headers": [
+        {
+          "level": 2,
+          "title": "前言",
+          "slug": "前言"
+        },
+        {
+          "level": 2,
+          "title": "事件系统",
+          "slug": "事件系统"
+        },
+        {
+          "level": 2,
+          "title": "插件化设计",
+          "slug": "插件化设计"
+        },
+        {
+          "level": 2,
+          "title": "执行实例",
+          "slug": "执行实例"
+        },
+        {
+          "level": 2,
+          "title": "总结",
+          "slug": "总结"
+        },
+        {
+          "level": 2,
+          "title": "公众号",
+          "slug": "公众号"
+        }
+      ]
+    },
+    {
+      "title": "实现轮播图组件",
+      "frontmatter": {},
+      "regularPath": "/guide/carousel.html",
+      "relativePath": "guide/carousel.md",
+      "key": "v-7de0ad61",
+      "path": "/guide/carousel.html",
+      "headers": [
+        {
+          "level": 2,
+          "title": "轮播图基本原理",
+          "slug": "轮播图基本原理"
+        },
+        {
+          "level": 2,
+          "title": "轮播图基础实现",
+          "slug": "轮播图基础实现"
+        },
+        {
+          "level": 2,
+          "title": "轮播图的动画效果",
+          "slug": "轮播图的动画效果"
+        },
+        {
+          "level": 2,
+          "title": "改进方向",
+          "slug": "改进方向"
+        },
+        {
+          "level": 2,
+          "title": "公众号",
+          "slug": "公众号"
+        }
+      ]
+    },
+    {
+      "title": "组件设计原则",
+      "frontmatter": {},
+      "regularPath": "/guide/component.html",
+      "relativePath": "guide/component.md",
+      "key": "v-6bdc279b",
+      "path": "/guide/component.html",
+      "headers": [
+        {
+          "level": 2,
+          "title": "前言",
+          "slug": "前言"
+        },
+        {
+          "level": 2,
+          "title": "细粒度的考量",
+          "slug": "细粒度的考量"
+        },
+        {
+          "level": 2,
+          "title": "通用性考量",
+          "slug": "通用性考量"
+        },
+        {
+          "level": 2,
+          "title": "公众号",
+          "slug": "公众号"
+        }
+      ]
+    },
+    {
+      "title": "如何搭建一个组件库的开发环境",
+      "frontmatter": {},
+      "regularPath": "/guide/componentCli.html",
+      "relativePath": "guide/componentCli.md",
+      "key": "v-f43c784a",
+      "path": "/guide/componentCli.html",
+      "headers": [
+        {
+          "level": 2,
+          "title": "技术选型",
+          "slug": "技术选型"
+        },
+        {
+          "level": 3,
+          "title": "css 解决方案",
+          "slug": "css-解决方案"
+        },
+        {
+          "level": 3,
+          "title": "js 解决方案",
+          "slug": "js-解决方案"
+        },
+        {
+          "level": 2,
+          "title": "如何快速启动一个组件库项目",
+          "slug": "如何快速启动一个组件库项目"
+        },
+        {
+          "level": 3,
+          "title": "打包工具(rollup vs webpack)",
+          "slug": "打包工具-rollup-vs-webpack"
+        },
+        {
+          "level": 3,
+          "title": "代码检测",
+          "slug": "代码检测"
+        },
+        {
+          "level": 3,
+          "title": "commit 规范",
+          "slug": "commit-规范"
+        },
+        {
+          "level": 3,
+          "title": "测试工具",
+          "slug": "测试工具"
+        },
+        {
+          "level": 3,
+          "title": "其它",
+          "slug": "其它"
+        },
+        {
+          "level": 3,
+          "title": "快速启动脚手架",
+          "slug": "快速启动脚手架"
+        },
+        {
+          "level": 3,
+          "title": "参考链接",
+          "slug": "参考链接"
+        },
+        {
+          "level": 2,
+          "title": "公众号",
+          "slug": "公众号"
+        }
+      ]
+    },
+    {
+      "title": "实现深克隆",
+      "frontmatter": {},
+      "regularPath": "/guide/deepclone.html",
+      "relativePath": "guide/deepclone.md",
+      "key": "v-49ebc41b",
+      "path": "/guide/deepclone.html",
+      "headers": [
+        {
+          "level": 2,
+          "title": "前言",
+          "slug": "前言"
+        },
+        {
+          "level": 2,
+          "title": "浅克隆",
+          "slug": "浅克隆"
+        },
+        {
+          "level": 2,
+          "title": "深克隆",
+          "slug": "深克隆"
+        },
+        {
+          "level": 3,
+          "title": "JSON.parse方法",
+          "slug": "json-parse方法"
+        },
+        {
+          "level": 3,
+          "title": "2.2 构造一个深克隆函数",
+          "slug": "_2-2-构造一个深克隆函数"
+        },
+        {
+          "level": 2,
+          "title": "总结",
+          "slug": "总结"
+        },
+        {
+          "level": 2,
+          "title": "公众号",
+          "slug": "公众号"
+        }
+      ]
+    },
+    {
+      "title": "前端工程化",
+      "frontmatter": {},
+      "regularPath": "/guide/engineering.html",
+      "relativePath": "guide/engineering.md",
+      "key": "v-386044db",
+      "path": "/guide/engineering.html",
+      "headers": [
+        {
+          "level": 2,
+          "title": "列表",
+          "slug": "列表"
+        },
+        {
+          "level": 2,
+          "title": "Babel的原理是什么?",
+          "slug": "babel的原理是什么"
+        },
+        {
+          "level": 2,
+          "title": "如何写一个babel插件?",
+          "slug": "如何写一个babel插件"
+        },
+        {
+          "level": 2,
+          "title": "你的git工作流是怎样的?",
+          "slug": "你的git工作流是怎样的"
+        },
+        {
+          "level": 2,
+          "title": "rebase 与 merge的区别?",
+          "slug": "rebase-与-merge的区别"
+        },
+        {
+          "level": 2,
+          "title": "git reset、git revert 和 git checkout 有什么区别",
+          "slug": "git-reset、git-revert-和-git-checkout-有什么区别"
+        },
+        {
+          "level": 2,
+          "title": "公众号",
+          "slug": "公众号"
+        }
+      ]
+    },
+    {
+      "title": "如何实现一个Event",
+      "frontmatter": {},
+      "regularPath": "/guide/event.html",
+      "relativePath": "guide/event.md",
+      "key": "v-6db0333b",
+      "path": "/guide/event.html",
+      "headers": [
+        {
+          "level": 2,
+          "title": "前言",
+          "slug": "前言"
+        },
+        {
+          "level": 2,
+          "title": "基本构造",
+          "slug": "基本构造"
+        },
+        {
+          "level": 3,
+          "title": "初始化class",
+          "slug": "初始化class"
+        },
+        {
+          "level": 3,
+          "title": "监听与触发",
+          "slug": "监听与触发"
+        },
+        {
+          "level": 2,
+          "title": "升级改造",
+          "slug": "升级改造"
+        },
+        {
+          "level": 3,
+          "title": "监听/触发器升级",
+          "slug": "监听-触发器升级"
+        },
+        {
+          "level": 3,
+          "title": "移除监听",
+          "slug": "移除监听"
+        },
+        {
+          "level": 3,
+          "title": "发现问题",
+          "slug": "发现问题"
+        },
+        {
+          "level": 2,
+          "title": "公众号",
+          "slug": "公众号"
+        }
+      ]
+    },
+    {
+      "title": "前端性能优化-执行篇",
+      "frontmatter": {},
+      "regularPath": "/guide/execute.html",
+      "relativePath": "guide/execute.md",
+      "key": "v-839c4cca",
+      "path": "/guide/execute.html",
+      "headers": [
+        {
+          "level": 2,
+          "title": "列表",
+          "slug": "列表"
+        },
+        {
+          "level": 2,
+          "title": "动画性能优化",
+          "slug": "动画性能优化"
+        },
+        {
+          "level": 3,
+          "title": "CSS3动画优化原理",
+          "slug": "css3动画优化原理"
+        },
+        {
+          "level": 3,
+          "title": "CSS3动画优化",
+          "slug": "css3动画优化"
+        },
+        {
+          "level": 3,
+          "title": "Canvas动画优化",
+          "slug": "canvas动画优化"
+        },
+        {
+          "level": 2,
+          "title": "大量数据性能优化",
+          "slug": "大量数据性能优化"
+        },
+        {
+          "level": 3,
+          "title": "虚拟列表",
+          "slug": "虚拟列表"
+        },
+        {
+          "level": 3,
+          "title": "Web Worker",
+          "slug": "web-worker-2"
+        },
+        {
+          "level": 2,
+          "title": "公众号",
+          "slug": "公众号"
+        }
+      ]
+    },
+    {
+      "title": "如何通过HR面",
+      "frontmatter": {},
+      "regularPath": "/guide/hr.html",
+      "relativePath": "guide/hr.md",
+      "key": "v-1d95074d",
+      "path": "/guide/hr.html",
+      "headers": [
+        {
+          "level": 2,
+          "title": "HR面的目的",
+          "slug": "hr面的目的"
+        },
+        {
+          "level": 2,
+          "title": "HR面的常见问题",
+          "slug": "hr面的常见问题"
+        },
+        {
+          "level": 3,
+          "title": "你对未来3-5年的职业规划",
+          "slug": "你对未来3-5年的职业规划"
+        },
+        {
+          "level": 3,
+          "title": "如何看待加班(996)?",
+          "slug": "如何看待加班-996"
+        },
+        {
+          "level": 3,
+          "title": "面对大量超过自己承受能力且时间有限的工作时你会怎么办?",
+          "slug": "面对大量超过自己承受能力且时间有限的工作时你会怎么办"
+        },
+        {
+          "level": 3,
+          "title": "你之前在上海为什么现在来北京发展?",
+          "slug": "你之前在上海为什么现在来北京发展"
+        },
+        {
+          "level": 2,
+          "title": "为什么从上一家公司离职?",
+          "slug": "为什么从上一家公司离职"
+        },
+        {
+          "level": 2,
+          "title": "你还有其他公司的Offer吗?",
+          "slug": "你还有其他公司的offer吗"
+        },
+        {
+          "level": 2,
+          "title": "如何与HR谈薪资?",
+          "slug": "如何与hr谈薪资"
+        },
+        {
+          "level": 2,
+          "title": "公众号",
+          "slug": "公众号"
+        }
+      ]
+    },
+    {
+      "title": "HTML基础",
+      "frontmatter": {},
+      "regularPath": "/guide/htmlBasic.html",
+      "relativePath": "guide/htmlBasic.md",
+      "key": "v-2a61b15b",
+      "path": "/guide/htmlBasic.html",
+      "headers": [
+        {
+          "level": 2,
+          "title": "doctype的作用是什么？✨",
+          "slug": "doctype的作用是什么？✨"
+        },
+        {
+          "level": 2,
+          "title": "这三种模式的区别是什么？",
+          "slug": "这三种模式的区别是什么？"
+        },
+        {
+          "level": 2,
+          "title": "HTML、XHTML、XML有什么区别",
+          "slug": "html、xhtml、xml有什么区别"
+        },
+        {
+          "level": 2,
+          "title": "什么是data-属性？",
+          "slug": "什么是data-属性？"
+        },
+        {
+          "level": 2,
+          "title": "你对HTML语义化的理解？✨",
+          "slug": "你对html语义化的理解？✨"
+        },
+        {
+          "level": 2,
+          "title": "HTML5与HTML4的不同之处",
+          "slug": "html5与html4的不同之处"
+        },
+        {
+          "level": 2,
+          "title": "有哪些常用的meta标签？",
+          "slug": "有哪些常用的meta标签？"
+        },
+        {
+          "level": 2,
+          "title": "src和href的区别？",
+          "slug": "src和href的区别？"
+        },
+        {
+          "level": 2,
+          "title": "知道img的srcset的作用是什么？（追问）",
+          "slug": "知道img的srcset的作用是什么？（追问）"
+        },
+        {
+          "level": 2,
+          "title": "还有哪一个标签能起到跟srcset相似作用？（追问）",
+          "slug": "还有哪一个标签能起到跟srcset相似作用？（追问）"
+        },
+        {
+          "level": 2,
+          "title": "script标签中defer和async的区别？✨",
+          "slug": "script标签中defer和async的区别？✨"
+        },
+        {
+          "level": 2,
+          "title": "有几种前端储存的方式？✨",
+          "slug": "有几种前端储存的方式？✨"
+        },
+        {
+          "level": 2,
+          "title": "这些方式的区别是什么？（追问）✨",
+          "slug": "这些方式的区别是什么？（追问）✨"
+        },
+        {
+          "level": 2,
+          "title": "公众号",
+          "slug": "公众号"
+        }
+      ]
+    },
+    {
+      "title": "实现不可变数据",
+      "frontmatter": {},
+      "regularPath": "/guide/immutable.html",
+      "relativePath": "guide/immutable.md",
+      "key": "v-50f233bb",
+      "path": "/guide/immutable.html",
+      "headers": [
+        {
+          "level": 2,
+          "title": "列表",
+          "slug": "列表"
+        },
+        {
+          "level": 2,
+          "title": "前言",
+          "slug": "前言"
+        },
+        {
+          "level": 2,
+          "title": "1.可变数据的副作用",
+          "slug": "_1-可变数据的副作用"
+        },
+        {
+          "level": 2,
+          "title": "2.不可变数据的解决方案",
+          "slug": "_2-不可变数据的解决方案"
+        },
+        {
+          "level": 2,
+          "title": "3.实现更简单的immutable",
+          "slug": "_3-实现更简单的immutable"
+        },
+        {
+          "level": 2,
+          "title": "总结",
+          "slug": "总结"
+        },
+        {
+          "level": 2,
+          "title": "公众号",
+          "slug": "公众号"
+        }
+      ]
+    },
+    {
+      "title": "JavaScript的运行机制",
+      "frontmatter": {},
+      "regularPath": "/guide/mechanism.html",
+      "relativePath": "guide/mechanism.md",
+      "key": "v-0a3f6d1b",
+      "path": "/guide/mechanism.html",
+      "headers": [
+        {
+          "level": 2,
+          "title": "JavaScript的执行环境",
+          "slug": "javascript的执行环境"
+        },
+        {
+          "level": 3,
+          "title": "JavaScript引擎(JavaScript Engine)",
+          "slug": "javascript引擎-javascript-engine"
+        },
+        {
+          "level": 3,
+          "title": "JavaScript运行时（JavaScript Runtime）",
+          "slug": "javascript运行时（javascript-runtime）"
+        },
+        {
+          "level": 3,
+          "title": "可执行代码",
+          "slug": "可执行代码"
+        },
+        {
+          "level": 2,
+          "title": "JavaScript执行",
+          "slug": "javascript执行"
+        },
+        {
+          "level": 3,
+          "title": "堆",
+          "slug": "堆"
+        },
+        {
+          "level": 3,
+          "title": "调用栈",
+          "slug": "调用栈"
+        },
+        {
+          "level": 3,
+          "title": "执行上下文(execution context)",
+          "slug": "执行上下文-execution-context"
+        },
+        {
+          "level": 3,
+          "title": "执行过程",
+          "slug": "执行过程"
+        },
+        {
+          "level": 2,
+          "title": "小结",
+          "slug": "小结"
+        },
+        {
+          "level": 3,
+          "title": "this是怎么被绑定的?",
+          "slug": "this是怎么被绑定的"
+        },
+        {
+          "level": 3,
+          "title": "作用域链是怎么形成的？",
+          "slug": "作用域链是怎么形成的？"
+        },
+        {
+          "level": 3,
+          "title": "闭包是怎么形成的？",
+          "slug": "闭包是怎么形成的？"
+        },
+        {
+          "level": 2,
+          "title": "公众号",
+          "slug": "公众号"
+        }
+      ]
+    },
+    {
+      "title": "JavaScript内存管理",
+      "frontmatter": {},
+      "regularPath": "/guide/memory.html",
+      "relativePath": "guide/memory.md",
+      "key": "v-06fcb09f",
+      "path": "/guide/memory.html",
+      "headers": [
+        {
+          "level": 2,
+          "title": "列表",
+          "slug": "列表"
+        },
+        {
+          "level": 2,
+          "title": "前言",
+          "slug": "前言"
+        },
+        {
+          "level": 2,
+          "title": "内存模型",
+          "slug": "内存模型"
+        },
+        {
+          "level": 2,
+          "title": "生命周期",
+          "slug": "生命周期"
+        },
+        {
+          "level": 2,
+          "title": "内存回收",
+          "slug": "内存回收"
+        },
+        {
+          "level": 3,
+          "title": "V8的内存分代",
+          "slug": "v8的内存分代"
+        },
+        {
+          "level": 3,
+          "title": "Stop The World （全停顿）",
+          "slug": "stop-the-world-（全停顿）"
+        },
+        {
+          "level": 3,
+          "title": "Scavenge 算法",
+          "slug": "scavenge-算法"
+        },
+        {
+          "level": 3,
+          "title": "对象晋升",
+          "slug": "对象晋升"
+        },
+        {
+          "level": 3,
+          "title": "Mark-Sweep & Mark-Compact",
+          "slug": "mark-sweep-mark-compact"
+        },
+        {
+          "level": 3,
+          "title": "Incremental Marking（增量标记）",
+          "slug": "incremental-marking（增量标记）"
+        },
+        {
+          "level": 3,
+          "title": "lazy sweeping（延迟清理）",
+          "slug": "lazy-sweeping（延迟清理）"
+        },
+        {
+          "level": 2,
+          "title": "内存泄露",
+          "slug": "内存泄露"
+        },
+        {
+          "level": 3,
+          "title": "引起内存泄漏的几个禁忌",
+          "slug": "引起内存泄漏的几个禁忌"
+        },
+        {
+          "level": 3,
+          "title": "查看内存泄漏",
+          "slug": "查看内存泄漏"
+        },
+        {
+          "level": 2,
+          "title": "公众号",
+          "slug": "公众号"
+        }
+      ]
+    },
+    {
+      "title": "面试回答问题的技巧",
+      "frontmatter": {},
+      "regularPath": "/guide/project.html",
+      "relativePath": "guide/project.md",
+      "key": "v-0bde6d1b",
+      "path": "/guide/project.html",
+      "headers": [
+        {
+          "level": 2,
+          "title": "自我介绍",
+          "slug": "自我介绍"
+        },
+        {
+          "level": 3,
+          "title": "为什么需要自我介绍",
+          "slug": "为什么需要自我介绍"
+        },
+        {
+          "level": 3,
+          "title": "自我介绍的几个必备要素",
+          "slug": "自我介绍的几个必备要素"
+        },
+        {
+          "level": 3,
+          "title": "自我介绍要有目的性",
+          "slug": "自我介绍要有目的性"
+        },
+        {
+          "level": 3,
+          "title": "如何准备自我介绍",
+          "slug": "如何准备自我介绍"
+        },
+        {
+          "level": 2,
+          "title": "技术考察",
+          "slug": "技术考察"
+        },
+        {
+          "level": 3,
+          "title": "多重提问",
+          "slug": "多重提问"
+        },
+        {
+          "level": 3,
+          "title": "答题法则",
+          "slug": "答题法则"
+        },
+        {
+          "level": 3,
+          "title": "刻意引导",
+          "slug": "刻意引导"
+        },
+        {
+          "level": 2,
+          "title": "向面试官提问",
+          "slug": "向面试官提问"
+        },
+        {
+          "level": 2,
+          "title": "总结",
+          "slug": "总结"
+        },
+        {
+          "level": 2,
+          "title": "公众号",
+          "slug": "公众号"
+        }
+      ]
+    },
+    {
+      "title": "Vue的响应式系统",
+      "frontmatter": {},
+      "regularPath": "/guide/reactivity.html",
+      "relativePath": "guide/reactivity.md",
+      "key": "v-4579e3dd",
+      "path": "/guide/reactivity.html",
+      "headers": [
+        {
+          "level": 2,
+          "title": "响应式系统",
+          "slug": "响应式系统"
+        },
+        {
+          "level": 2,
+          "title": "发布订阅中心",
+          "slug": "发布订阅中心"
+        },
+        {
+          "level": 2,
+          "title": "监听者的实现",
+          "slug": "监听者的实现"
+        },
+        {
+          "level": 2,
+          "title": "订阅者的实现",
+          "slug": "订阅者的实现"
+        },
+        {
+          "level": 2,
+          "title": "批量更新的实现",
+          "slug": "批量更新的实现"
+        },
+        {
+          "level": 2,
+          "title": "梳理",
+          "slug": "梳理"
+        },
+        {
+          "level": 2,
+          "title": "响应式系统并不是全部",
+          "slug": "响应式系统并不是全部"
+        },
+        {
+          "level": 2,
+          "title": "公众号",
+          "slug": "公众号"
+        }
+      ]
+    },
+    {
+      "title": "前端路由的实现",
+      "frontmatter": {},
+      "regularPath": "/guide/router.html",
+      "relativePath": "guide/router.md",
+      "key": "v-34a8e60f",
+      "path": "/guide/router.html",
+      "headers": [
+        {
+          "level": 2,
+          "title": "列表",
+          "slug": "列表"
+        },
+        {
+          "level": 2,
+          "title": "前言",
+          "slug": "前言"
+        },
+        {
+          "level": 2,
+          "title": "1.hash路由",
+          "slug": "_1-hash路由"
+        },
+        {
+          "level": 3,
+          "title": "1.1 初始化class",
+          "slug": "_1-1-初始化class"
+        },
+        {
+          "level": 3,
+          "title": "1.2 实现路由hash储存与执行",
+          "slug": "_1-2-实现路由hash储存与执行"
+        },
+        {
+          "level": 3,
+          "title": "1.3 监听对应事件",
+          "slug": "_1-3-监听对应事件"
+        },
+        {
+          "level": 2,
+          "title": "2.增加回退功能",
+          "slug": "_2-增加回退功能"
+        },
+        {
+          "level": 3,
+          "title": "2.1 实现后退功能",
+          "slug": "_2-1-实现后退功能"
+        },
+        {
+          "level": 3,
+          "title": "2.2 完整实现hash Router",
+          "slug": "_2-2-完整实现hash-router"
+        },
+        {
+          "level": 2,
+          "title": "3. HTML5新路由方案",
+          "slug": "_3-html5新路由方案"
+        },
+        {
+          "level": 3,
+          "title": "3.1 History API",
+          "slug": "_3-1-history-api"
+        },
+        {
+          "level": 3,
+          "title": "3.2 新标准下路由的实现",
+          "slug": "_3-2-新标准下路由的实现"
+        },
+        {
+          "level": 2,
+          "title": "小结",
+          "slug": "小结"
+        },
+        {
+          "level": 2,
+          "title": "公众号",
+          "slug": "公众号"
+        }
+      ]
+    },
+    {
+      "title": "setState到底是异步的还是同步的?",
+      "frontmatter": {},
+      "regularPath": "/guide/setState.html",
+      "relativePath": "guide/setState.md",
+      "key": "v-2184f3fa",
+      "path": "/guide/setState.html",
+      "headers": [
+        {
+          "level": 2,
+          "title": "列表",
+          "slug": "列表"
+        },
+        {
+          "level": 2,
+          "title": "setState真的是异步的吗 ？",
+          "slug": "setstate真的是异步的吗-？"
+        },
+        {
+          "level": 2,
+          "title": "一、合成事件中的`setState`",
+          "slug": "一、合成事件中的setstate"
+        },
+        {
+          "level": 2,
+          "title": "二、生命周期函数中的`setState`",
+          "slug": "二、生命周期函数中的setstate"
+        },
+        {
+          "level": 2,
+          "title": "三、原生事件中的`setState`",
+          "slug": "三、原生事件中的setstate"
+        },
+        {
+          "level": 2,
+          "title": "四、setTimeout中的`setState`",
+          "slug": "四、settimeout中的setstate"
+        },
+        {
+          "level": 2,
+          "title": "五、`setState`中的批量更新",
+          "slug": "五、setstate中的批量更新"
+        },
+        {
+          "level": 2,
+          "title": "最后看个🌰",
+          "slug": "最后看个🌰"
+        },
+        {
+          "level": 2,
+          "title": "总结 :",
+          "slug": "总结"
+        },
+        {
+          "level": 2,
+          "title": "公众号",
+          "slug": "公众号"
+        }
+      ]
+    },
+    {
+      "title": "Vue面试题",
+      "frontmatter": {},
+      "regularPath": "/guide/vue.html",
+      "relativePath": "guide/vue.md",
+      "key": "v-50d037fb",
+      "path": "/guide/vue.html",
+      "headers": [
+        {
+          "level": 2,
+          "title": "列表",
+          "slug": "列表"
+        },
+        {
+          "level": 2,
+          "title": "你对MVVM的理解?",
+          "slug": "你对mvvm的理解"
+        },
+        {
+          "level": 3,
+          "title": "MVVM是什么?",
+          "slug": "mvvm是什么"
+        },
+        {
+          "level": 3,
+          "title": "MVVM的优缺点?",
+          "slug": "mvvm的优缺点"
+        },
+        {
+          "level": 2,
+          "title": "你对Vue生命周期的理解？",
+          "slug": "你对vue生命周期的理解？"
+        },
+        {
+          "level": 3,
+          "title": "生命周期是什么",
+          "slug": "生命周期是什么"
+        },
+        {
+          "level": 3,
+          "title": "各个生命周期的作用",
+          "slug": "各个生命周期的作用"
+        },
+        {
+          "level": 3,
+          "title": "生命周期示意图",
+          "slug": "生命周期示意图"
+        },
+        {
+          "level": 2,
+          "title": "异步请求适合在哪个生命周期调用？",
+          "slug": "异步请求适合在哪个生命周期调用？"
+        },
+        {
+          "level": 2,
+          "title": "Vue组件如何通信？",
+          "slug": "vue组件如何通信？"
+        },
+        {
+          "level": 2,
+          "title": "computed和watch有什么区别?",
+          "slug": "computed和watch有什么区别"
+        },
+        {
+          "level": 2,
+          "title": "Vue是如何实现双向绑定的?",
+          "slug": "vue是如何实现双向绑定的"
+        },
+        {
+          "level": 2,
+          "title": "Proxy与Object.defineProperty的优劣对比?",
+          "slug": "proxy与object-defineproperty的优劣对比"
+        },
+        {
+          "level": 2,
+          "title": "你是如何理解Vue的响应式系统的?",
+          "slug": "你是如何理解vue的响应式系统的"
+        },
+        {
+          "level": 2,
+          "title": "既然Vue通过数据劫持可以精准探测数据变化,为什么还需要虚拟DOM进行diff检测差异?",
+          "slug": "既然vue通过数据劫持可以精准探测数据变化-为什么还需要虚拟dom进行diff检测差异"
+        },
+        {
+          "level": 2,
+          "title": "Vue为什么没有类似于React中shouldComponentUpdate的生命周期？",
+          "slug": "vue为什么没有类似于react中shouldcomponentupdate的生命周期？"
+        },
+        {
+          "level": 2,
+          "title": "Vue中的key到底有什么用？",
+          "slug": "vue中的key到底有什么用？"
+        },
+        {
+          "level": 2,
+          "title": "公众号",
+          "slug": "公众号"
+        }
+      ]
+    },
+    {
+      "title": "webpack面试题",
+      "frontmatter": {},
+      "regularPath": "/guide/webpack.html",
+      "relativePath": "guide/webpack.md",
+      "key": "v-7128ca9b",
+      "path": "/guide/webpack.html",
+      "headers": [
+        {
+          "level": 2,
+          "title": "列表",
+          "slug": "列表"
+        },
+        {
+          "level": 2,
+          "title": "webpack与grunt、gulp的不同？",
+          "slug": "webpack与grunt、gulp的不同？"
+        },
+        {
+          "level": 2,
+          "title": "webpack、rollup、parcel优劣？",
+          "slug": "webpack、rollup、parcel优劣？"
+        },
+        {
+          "level": 2,
+          "title": "有哪些常见的Loader？",
+          "slug": "有哪些常见的loader？"
+        },
+        {
+          "level": 2,
+          "title": "有哪些常见的Plugin？",
+          "slug": "有哪些常见的plugin？"
+        },
+        {
+          "level": 2,
+          "title": "分别介绍bundle，chunk，module是什么",
+          "slug": "分别介绍bundle，chunk，module是什么"
+        },
+        {
+          "level": 2,
+          "title": "Loader和Plugin的不同？",
+          "slug": "loader和plugin的不同？"
+        },
+        {
+          "level": 2,
+          "title": "webpack的构建流程是什么?",
+          "slug": "webpack的构建流程是什么"
+        },
+        {
+          "level": 2,
+          "title": "是否写过Loader和Plugin？描述一下编写loader或plugin的思路？",
+          "slug": "是否写过loader和plugin？描述一下编写loader或plugin的思路？"
+        },
+        {
+          "level": 2,
+          "title": "webpack的热更新是如何做到的？说明其原理？",
+          "slug": "webpack的热更新是如何做到的？说明其原理？"
+        },
+        {
+          "level": 2,
+          "title": "如何用webpack来优化前端性能？",
+          "slug": "如何用webpack来优化前端性能？"
+        },
+        {
+          "level": 2,
+          "title": "如何提高webpack的打包速度?",
+          "slug": "如何提高webpack的打包速度"
+        },
+        {
+          "level": 2,
+          "title": "如何提高webpack的构建速度？",
+          "slug": "如何提高webpack的构建速度？"
+        },
+        {
+          "level": 2,
+          "title": "怎么配置单页应用？怎么配置多页应用？",
+          "slug": "怎么配置单页应用？怎么配置多页应用？"
+        },
+        {
+          "level": 2,
+          "title": "公众号",
+          "slug": "公众号"
+        }
+      ]
+    },
+    {
+      "title": "Webpack 模块机制",
+      "frontmatter": {},
+      "regularPath": "/guide/webpackMoudle.html",
+      "relativePath": "guide/webpackMoudle.md",
+      "key": "v-69f7aedb",
+      "path": "/guide/webpackMoudle.html",
+      "headers": [
+        {
+          "level": 3,
+          "title": "准备点材料",
+          "slug": "准备点材料"
+        },
+        {
+          "level": 3,
+          "title": "模块初始化函数",
+          "slug": "模块初始化函数"
+        },
+        {
+          "level": 3,
+          "title": "modules && _webpackexports__",
+          "slug": "modules-webpack-exports"
+        },
+        {
+          "level": 3,
+          "title": "模块 id",
+          "slug": "模块-id"
+        },
+        {
+          "level": 3,
+          "title": "require 函数",
+          "slug": "require-函数"
+        },
+        {
+          "level": 3,
+          "title": "最后，我们来改造一下 bundle.js",
+          "slug": "最后，我们来改造一下-bundle-js"
+        },
+        {
+          "level": 3,
+          "title": "总结",
+          "slug": "总结"
         },
         {
           "level": 2,
@@ -269,9 +1701,14 @@ export const siteData = {
       "frontmatter": {},
       "regularPath": "/guide/algorithm.html",
       "relativePath": "guide/algorithm.md",
-      "key": "v-dae534d4",
+      "key": "v-46b848db",
       "path": "/guide/algorithm.html",
       "headers": [
+        {
+          "level": 2,
+          "title": "列表",
+          "slug": "列表"
+        },
         {
           "level": 2,
           "title": "如何分析时间复杂度?",
@@ -325,18 +1762,46 @@ export const siteData = {
       ]
     },
     {
+      "title": "Webpack HMR 原理解析",
       "frontmatter": {},
-      "regularPath": "/guide/babel.html",
-      "relativePath": "guide/babel.md",
-      "key": "v-6ce1c4f6",
-      "path": "/guide/babel.html"
+      "regularPath": "/guide/WebpackHMR.html",
+      "relativePath": "guide/WebpackHMR.md",
+      "key": "v-6bda7de1",
+      "path": "/guide/WebpackHMR.html",
+      "headers": [
+        {
+          "level": 2,
+          "title": "为什么需要 HMR",
+          "slug": "为什么需要-hmr"
+        },
+        {
+          "level": 2,
+          "title": "HMR 的工作原理图解",
+          "slug": "hmr-的工作原理图解"
+        },
+        {
+          "level": 2,
+          "title": "运用 HMR 的简单例子",
+          "slug": "运用-hmr-的简单例子"
+        },
+        {
+          "level": 2,
+          "title": "写在最后",
+          "slug": "写在最后"
+        },
+        {
+          "level": 2,
+          "title": "公众号",
+          "slug": "公众号"
+        }
+      ]
     },
     {
       "title": "如何开发Babel插件",
       "frontmatter": {},
       "regularPath": "/guide/babelPlugin.html",
       "relativePath": "guide/babelPlugin.md",
-      "key": "v-050a85d6",
+      "key": "v-16d83e9b",
       "path": "/guide/babelPlugin.html",
       "headers": [
         {
@@ -407,66 +1872,11 @@ export const siteData = {
       ]
     },
     {
-      "title": "书籍/课程推荐",
-      "frontmatter": {},
-      "regularPath": "/guide/book.html",
-      "relativePath": "guide/book.md",
-      "key": "v-38038a4a",
-      "path": "/guide/book.html",
-      "headers": [
-        {
-          "level": 2,
-          "title": "书单",
-          "slug": "书单"
-        },
-        {
-          "level": 3,
-          "title": "JavaScript",
-          "slug": "javascript"
-        },
-        {
-          "level": 3,
-          "title": "CSS:",
-          "slug": "css"
-        },
-        {
-          "level": 3,
-          "title": "算法：",
-          "slug": "算法："
-        },
-        {
-          "level": 3,
-          "title": "安全：",
-          "slug": "安全："
-        },
-        {
-          "level": 3,
-          "title": "canvas：",
-          "slug": "canvas："
-        },
-        {
-          "level": 3,
-          "title": "Node",
-          "slug": "node"
-        },
-        {
-          "level": 3,
-          "title": "网络",
-          "slug": "网络"
-        },
-        {
-          "level": 2,
-          "title": "公众号",
-          "slug": "公众号"
-        }
-      ]
-    },
-    {
       "title": "浏览器与新技术",
       "frontmatter": {},
       "regularPath": "/guide/browser.html",
       "relativePath": "guide/browser.md",
-      "key": "v-08fc6914",
+      "key": "v-9f79cd8a",
       "path": "/guide/browser.html",
       "headers": [
         {
@@ -597,183 +2007,11 @@ export const siteData = {
       ]
     },
     {
-      "title": "实现轮播图组件",
-      "frontmatter": {},
-      "regularPath": "/guide/carousel.html",
-      "relativePath": "guide/carousel.md",
-      "key": "v-17888648",
-      "path": "/guide/carousel.html",
-      "headers": [
-        {
-          "level": 2,
-          "title": "轮播图基本原理",
-          "slug": "轮播图基本原理"
-        },
-        {
-          "level": 2,
-          "title": "轮播图基础实现",
-          "slug": "轮播图基础实现"
-        },
-        {
-          "level": 2,
-          "title": "轮播图的动画效果",
-          "slug": "轮播图的动画效果"
-        },
-        {
-          "level": 2,
-          "title": "改进方向",
-          "slug": "改进方向"
-        },
-        {
-          "level": 2,
-          "title": "公众号",
-          "slug": "公众号"
-        }
-      ]
-    },
-    {
-      "title": "框架通用面试题",
-      "frontmatter": {},
-      "regularPath": "/guide/common.html",
-      "relativePath": "guide/common.md",
-      "key": "v-c64d1774",
-      "path": "/guide/common.html",
-      "headers": [
-        {
-          "level": 2,
-          "title": "为什么选择使用框架而不是原生?",
-          "slug": "为什么选择使用框架而不是原生"
-        },
-        {
-          "level": 2,
-          "title": "虚拟DOM的优劣如何?",
-          "slug": "虚拟dom的优劣如何"
-        },
-        {
-          "level": 2,
-          "title": "虚拟DOM实现原理?",
-          "slug": "虚拟dom实现原理"
-        },
-        {
-          "level": 2,
-          "title": "公众号",
-          "slug": "公众号"
-        }
-      ]
-    },
-    {
-      "title": "组件设计原则",
-      "frontmatter": {},
-      "regularPath": "/guide/component.html",
-      "relativePath": "guide/component.md",
-      "key": "v-909d7754",
-      "path": "/guide/component.html",
-      "headers": [
-        {
-          "level": 2,
-          "title": "前言",
-          "slug": "前言"
-        },
-        {
-          "level": 2,
-          "title": "细粒度的考量",
-          "slug": "细粒度的考量"
-        },
-        {
-          "level": 2,
-          "title": "通用性考量",
-          "slug": "通用性考量"
-        },
-        {
-          "level": 2,
-          "title": "公众号",
-          "slug": "公众号"
-        }
-      ]
-    },
-    {
-      "title": "如何搭建一个组件库的开发环境",
-      "frontmatter": {},
-      "regularPath": "/guide/componentCli.html",
-      "relativePath": "guide/componentCli.md",
-      "key": "v-9ec1af54",
-      "path": "/guide/componentCli.html",
-      "headers": [
-        {
-          "level": 2,
-          "title": "技术选型",
-          "slug": "技术选型"
-        },
-        {
-          "level": 3,
-          "title": "css 解决方案",
-          "slug": "css-解决方案"
-        },
-        {
-          "level": 3,
-          "title": "js 解决方案",
-          "slug": "js-解决方案"
-        },
-        {
-          "level": 2,
-          "title": "如何快速启动一个组件库项目",
-          "slug": "如何快速启动一个组件库项目"
-        },
-        {
-          "level": 3,
-          "title": "打包工具(rollup vs webpack)",
-          "slug": "打包工具-rollup-vs-webpack"
-        },
-        {
-          "level": 3,
-          "title": "代码检测",
-          "slug": "代码检测"
-        },
-        {
-          "level": 3,
-          "title": "commit 规范",
-          "slug": "commit-规范"
-        },
-        {
-          "level": 3,
-          "title": "测试工具",
-          "slug": "测试工具"
-        },
-        {
-          "level": 3,
-          "title": "其它",
-          "slug": "其它"
-        },
-        {
-          "level": 3,
-          "title": "快速启动脚手架",
-          "slug": "快速启动脚手架"
-        },
-        {
-          "level": 3,
-          "title": "参考链接",
-          "slug": "参考链接"
-        },
-        {
-          "level": 2,
-          "title": "公众号",
-          "slug": "公众号"
-        }
-      ]
-    },
-    {
-      "frontmatter": {},
-      "regularPath": "/guide/composite.html",
-      "relativePath": "guide/composite.md",
-      "key": "v-45f5ac96",
-      "path": "/guide/composite.html"
-    },
-    {
       "title": "CSS基础",
       "frontmatter": {},
       "regularPath": "/guide/cssBasic.html",
       "relativePath": "guide/cssBasic.md",
-      "key": "v-26a54b74",
+      "key": "v-76524acb",
       "path": "/guide/cssBasic.html",
       "headers": [
         {
@@ -944,73 +2182,18 @@ export const siteData = {
       ]
     },
     {
-      "frontmatter": {},
-      "regularPath": "/guide/dataStructure.html",
-      "relativePath": "guide/dataStructure.md",
-      "key": "v-48a310d6",
-      "path": "/guide/dataStructure.html"
-    },
-    {
-      "title": "实现深克隆",
-      "frontmatter": {},
-      "regularPath": "/guide/deepclone.html",
-      "relativePath": "guide/deepclone.md",
-      "key": "v-d47e3e54",
-      "path": "/guide/deepclone.html",
-      "headers": [
-        {
-          "level": 2,
-          "title": "前言",
-          "slug": "前言"
-        },
-        {
-          "level": 2,
-          "title": "浅克隆",
-          "slug": "浅克隆"
-        },
-        {
-          "level": 2,
-          "title": "深克隆",
-          "slug": "深克隆"
-        },
-        {
-          "level": 3,
-          "title": "JSON.parse方法",
-          "slug": "json-parse方法"
-        },
-        {
-          "level": 3,
-          "title": "2.2 构造一个深克隆函数",
-          "slug": "_2-2-构造一个深克隆函数"
-        },
-        {
-          "level": 2,
-          "title": "总结",
-          "slug": "总结"
-        },
-        {
-          "level": 2,
-          "title": "公众号",
-          "slug": "公众号"
-        }
-      ]
-    },
-    {
-      "title": "设计模式",
-      "frontmatter": {},
-      "regularPath": "/guide/designPatterns.html",
-      "relativePath": "guide/designPatterns.md",
-      "key": "v-1d743fcc",
-      "path": "/guide/designPatterns.html"
-    },
-    {
       "title": "Proxy比defineproperty优劣对比?",
       "frontmatter": {},
       "regularPath": "/guide/devsProxy.html",
       "relativePath": "guide/devsProxy.md",
-      "key": "v-7b8fa194",
+      "key": "v-7663127b",
       "path": "/guide/devsProxy.html",
       "headers": [
+        {
+          "level": 2,
+          "title": "列表",
+          "slug": "列表"
+        },
         {
           "level": 2,
           "title": "前言",
@@ -1074,42 +2257,127 @@ export const siteData = {
       ]
     },
     {
-      "title": "DOM",
+      "title": "HTTP协议",
       "frontmatter": {},
-      "regularPath": "/guide/dom.html",
-      "relativePath": "guide/dom.md",
-      "key": "v-d62d5894",
-      "path": "/guide/dom.html",
+      "regularPath": "/guide/http.html",
+      "relativePath": "guide/http.md",
+      "key": "v-2db834de",
+      "path": "/guide/http.html",
       "headers": [
         {
           "level": 2,
-          "title": "DOM的事件模型是什么？",
-          "slug": "dom的事件模型是什么？"
+          "title": "列表",
+          "slug": "列表"
         },
         {
           "level": 2,
-          "title": "DOM的事件流是什么？",
-          "slug": "dom的事件流是什么？"
-        },
-        {
-          "level": 3,
-          "title": "事件冒泡",
-          "slug": "事件冒泡"
-        },
-        {
-          "level": 3,
-          "title": "事件捕获",
-          "slug": "事件捕获"
-        },
-        {
-          "level": 3,
-          "title": "事件流",
-          "slug": "事件流"
+          "title": "HTTP有哪些方法？",
+          "slug": "http有哪些方法？"
         },
         {
           "level": 2,
-          "title": "什么是事件委托",
-          "slug": "什么是事件委托"
+          "title": "这些方法的具体作用是什么？",
+          "slug": "这些方法的具体作用是什么？"
+        },
+        {
+          "level": 2,
+          "title": "GET和POST有什么区别？",
+          "slug": "get和post有什么区别？"
+        },
+        {
+          "level": 2,
+          "title": "PUT和POST都是给服务器发送新增资源，有什么区别？",
+          "slug": "put和post都是给服务器发送新增资源，有什么区别？"
+        },
+        {
+          "level": 2,
+          "title": "PUT和PATCH都是给服务器发送修改资源，有什么区别？",
+          "slug": "put和patch都是给服务器发送修改资源，有什么区别？"
+        },
+        {
+          "level": 2,
+          "title": "http的请求报文是什么样的？",
+          "slug": "http的请求报文是什么样的？"
+        },
+        {
+          "level": 2,
+          "title": "http的响应报文是什么样的？",
+          "slug": "http的响应报文是什么样的？"
+        },
+        {
+          "level": 2,
+          "title": "聊一聊HTTP的部首有哪些？",
+          "slug": "聊一聊http的部首有哪些？"
+        },
+        {
+          "level": 2,
+          "title": "聊一聊HTTP的状态码有哪些？",
+          "slug": "聊一聊http的状态码有哪些？"
+        },
+        {
+          "level": 2,
+          "title": "同样是重定向307，303，302的区别？",
+          "slug": "同样是重定向307，303，302的区别？"
+        },
+        {
+          "level": 2,
+          "title": "HTTP的keep-alive是干什么的？",
+          "slug": "http的keep-alive是干什么的？"
+        },
+        {
+          "level": 2,
+          "title": "为什么有了HTTP为什么还要HTTPS？",
+          "slug": "为什么有了http为什么还要https？"
+        },
+        {
+          "level": 2,
+          "title": "HTTPS是如何保证安全的？",
+          "slug": "https是如何保证安全的？"
+        },
+        {
+          "level": 2,
+          "title": "HTTP2相对于HTTP1.x有什么优势和特点？",
+          "slug": "http2相对于http1-x有什么优势和特点？"
+        },
+        {
+          "level": 3,
+          "title": "二进制分帧",
+          "slug": "二进制分帧"
+        },
+        {
+          "level": 3,
+          "title": "头部压缩",
+          "slug": "头部压缩"
+        },
+        {
+          "level": 3,
+          "title": "服务器推送",
+          "slug": "服务器推送"
+        },
+        {
+          "level": 3,
+          "title": "多路复用",
+          "slug": "多路复用"
+        },
+        {
+          "level": 2,
+          "title": "HTTP的缓存的过程是怎样的？",
+          "slug": "http的缓存的过程是怎样的？"
+        },
+        {
+          "level": 2,
+          "title": "什么时候会触发强缓存或者协商缓存？",
+          "slug": "什么时候会触发强缓存或者协商缓存？"
+        },
+        {
+          "level": 3,
+          "title": "强缓存",
+          "slug": "强缓存"
+        },
+        {
+          "level": 3,
+          "title": "协商缓存",
+          "slug": "协商缓存"
         },
         {
           "level": 2,
@@ -1119,12 +2387,712 @@ export const siteData = {
       ]
     },
     {
-      "title": "如何实现一个Event",
+      "title": "JavaScript笔试部分",
       "frontmatter": {},
-      "regularPath": "/guide/event.html",
-      "relativePath": "guide/event.md",
-      "key": "v-69018a14",
-      "path": "/guide/event.html",
+      "regularPath": "/guide/jsWritten.html",
+      "relativePath": "guide/jsWritten.md",
+      "key": "v-693cb73b",
+      "path": "/guide/jsWritten.html",
+      "headers": [
+        {
+          "level": 2,
+          "title": "实现防抖函数（debounce）",
+          "slug": "实现防抖函数（debounce）"
+        },
+        {
+          "level": 2,
+          "title": "实现节流函数（throttle）",
+          "slug": "实现节流函数（throttle）"
+        },
+        {
+          "level": 2,
+          "title": "深克隆（deepclone）",
+          "slug": "深克隆（deepclone）"
+        },
+        {
+          "level": 2,
+          "title": "实现Event(event bus)",
+          "slug": "实现event-event-bus"
+        },
+        {
+          "level": 2,
+          "title": "实现instanceOf",
+          "slug": "实现instanceof"
+        },
+        {
+          "level": 2,
+          "title": "模拟new",
+          "slug": "模拟new"
+        },
+        {
+          "level": 2,
+          "title": "实现一个call",
+          "slug": "实现一个call"
+        },
+        {
+          "level": 2,
+          "title": "实现apply方法",
+          "slug": "实现apply方法"
+        },
+        {
+          "level": 2,
+          "title": "实现bind",
+          "slug": "实现bind"
+        },
+        {
+          "level": 2,
+          "title": "模拟Object.create",
+          "slug": "模拟object-create"
+        },
+        {
+          "level": 2,
+          "title": "实现类的继承",
+          "slug": "实现类的继承"
+        },
+        {
+          "level": 2,
+          "title": "实现JSON.parse",
+          "slug": "实现json-parse"
+        },
+        {
+          "level": 2,
+          "title": "实现Promise",
+          "slug": "实现promise"
+        },
+        {
+          "level": 2,
+          "title": "公众号",
+          "slug": "公众号"
+        }
+      ]
+    },
+    {
+      "title": "React面试题",
+      "frontmatter": {},
+      "regularPath": "/guide/react.html",
+      "relativePath": "guide/react.md",
+      "key": "v-214a55db",
+      "path": "/guide/react.html",
+      "headers": [
+        {
+          "level": 2,
+          "title": "列表",
+          "slug": "列表"
+        },
+        {
+          "level": 2,
+          "title": "React最新的生命周期是怎样的?",
+          "slug": "react最新的生命周期是怎样的"
+        },
+        {
+          "level": 2,
+          "title": "React的请求应该放在哪个生命周期中?",
+          "slug": "react的请求应该放在哪个生命周期中"
+        },
+        {
+          "level": 2,
+          "title": "setState到底是异步还是同步?",
+          "slug": "setstate到底是异步还是同步"
+        },
+        {
+          "level": 2,
+          "title": "React组件通信如何实现?",
+          "slug": "react组件通信如何实现"
+        },
+        {
+          "level": 2,
+          "title": "React有哪些优化性能是手段?",
+          "slug": "react有哪些优化性能是手段"
+        },
+        {
+          "level": 2,
+          "title": "React如何进行组件/逻辑复用?",
+          "slug": "react如何进行组件-逻辑复用"
+        },
+        {
+          "level": 2,
+          "title": "mixin、hoc、render props、react-hooks的优劣如何？",
+          "slug": "mixin、hoc、render-props、react-hooks的优劣如何？"
+        },
+        {
+          "level": 2,
+          "title": "你是如何理解fiber的?",
+          "slug": "你是如何理解fiber的"
+        },
+        {
+          "level": 2,
+          "title": "你对 Time Slice的理解?",
+          "slug": "你对-time-slice的理解"
+        },
+        {
+          "level": 2,
+          "title": "redux的工作流程?",
+          "slug": "redux的工作流程"
+        },
+        {
+          "level": 2,
+          "title": "react-redux是如何工作的?",
+          "slug": "react-redux是如何工作的"
+        },
+        {
+          "level": 2,
+          "title": "redux与mobx的区别?",
+          "slug": "redux与mobx的区别"
+        },
+        {
+          "level": 2,
+          "title": "redux中如何进行异步操作?",
+          "slug": "redux中如何进行异步操作"
+        },
+        {
+          "level": 2,
+          "title": "redux异步中间件之间的优劣?",
+          "slug": "redux异步中间件之间的优劣"
+        },
+        {
+          "level": 2,
+          "title": "公众号",
+          "slug": "公众号"
+        }
+      ]
+    },
+    {
+      "title": "面试官到底想看什么样的简历？",
+      "frontmatter": {},
+      "regularPath": "/guide/resume.html",
+      "relativePath": "guide/resume.md",
+      "key": "v-4fe8ad72",
+      "path": "/guide/resume.html",
+      "headers": [
+        {
+          "level": 2,
+          "title": "简历准备",
+          "slug": "简历准备"
+        },
+        {
+          "level": 2,
+          "title": "准备简历模板",
+          "slug": "准备简历模板"
+        },
+        {
+          "level": 2,
+          "title": "准备个人信息",
+          "slug": "准备个人信息"
+        },
+        {
+          "level": 2,
+          "title": "准备专业技能",
+          "slug": "准备专业技能"
+        },
+        {
+          "level": 2,
+          "title": "准备工作经历",
+          "slug": "准备工作经历"
+        },
+        {
+          "level": 2,
+          "title": "准备项目经历",
+          "slug": "准备项目经历"
+        },
+        {
+          "level": 3,
+          "title": "切忌流水账写法",
+          "slug": "切忌流水账写法"
+        },
+        {
+          "level": 3,
+          "title": "切忌堆积项目",
+          "slug": "切忌堆积项目"
+        },
+        {
+          "level": 3,
+          "title": "切忌放虚假项目",
+          "slug": "切忌放虚假项目"
+        },
+        {
+          "level": 3,
+          "title": "合格的项目经历如何写",
+          "slug": "合格的项目经历如何写"
+        },
+        {
+          "level": 2,
+          "title": "教育背景",
+          "slug": "教育背景"
+        },
+        {
+          "level": 2,
+          "title": "几点注意事项",
+          "slug": "几点注意事项"
+        },
+        {
+          "level": 2,
+          "title": "你可能的疑问",
+          "slug": "你可能的疑问"
+        },
+        {
+          "level": 2,
+          "title": "总结",
+          "slug": "总结"
+        },
+        {
+          "level": 2,
+          "title": "公众号",
+          "slug": "公众号"
+        }
+      ]
+    },
+    {
+      "title": "前端安全面试题",
+      "frontmatter": {},
+      "regularPath": "/guide/security.html",
+      "relativePath": "guide/security.md",
+      "key": "v-402c91a1",
+      "path": "/guide/security.html",
+      "headers": [
+        {
+          "level": 2,
+          "title": "列表",
+          "slug": "列表"
+        },
+        {
+          "level": 2,
+          "title": "有哪些可能引起前端安全的的问题?",
+          "slug": "有哪些可能引起前端安全的的问题"
+        },
+        {
+          "level": 2,
+          "title": "XSS分为哪几类?",
+          "slug": "xss分为哪几类"
+        },
+        {
+          "level": 3,
+          "title": "存储型 XSS",
+          "slug": "存储型-xss"
+        },
+        {
+          "level": 3,
+          "title": "反射型 XSS",
+          "slug": "反射型-xss"
+        },
+        {
+          "level": 3,
+          "title": "DOM 型 XSS",
+          "slug": "dom-型-xss"
+        },
+        {
+          "level": 2,
+          "title": "如何预防XSS?",
+          "slug": "如何预防xss"
+        },
+        {
+          "level": 3,
+          "title": "输入过滤",
+          "slug": "输入过滤"
+        },
+        {
+          "level": 3,
+          "title": "预防存储型和反射型 XSS 攻击",
+          "slug": "预防存储型和反射型-xss-攻击"
+        },
+        {
+          "level": 3,
+          "title": "预防 DOM 型 XSS 攻击",
+          "slug": "预防-dom-型-xss-攻击"
+        },
+        {
+          "level": 2,
+          "title": "其他 XSS 防范措施",
+          "slug": "其他-xss-防范措施"
+        },
+        {
+          "level": 3,
+          "title": "Content Security Policy",
+          "slug": "content-security-policy"
+        },
+        {
+          "level": 3,
+          "title": "输入内容长度控制",
+          "slug": "输入内容长度控制"
+        },
+        {
+          "level": 3,
+          "title": "其他安全措施",
+          "slug": "其他安全措施"
+        },
+        {
+          "level": 2,
+          "title": "CSRF是什么?",
+          "slug": "csrf是什么"
+        },
+        {
+          "level": 2,
+          "title": "CSRF的攻击类型?",
+          "slug": "csrf的攻击类型"
+        },
+        {
+          "level": 2,
+          "title": "如何预防CSRF?",
+          "slug": "如何预防csrf"
+        },
+        {
+          "level": 3,
+          "title": "同源检测",
+          "slug": "同源检测"
+        },
+        {
+          "level": 3,
+          "title": "CSRF Token",
+          "slug": "csrf-token"
+        },
+        {
+          "level": 3,
+          "title": "双重Cookie验证",
+          "slug": "双重cookie验证"
+        },
+        {
+          "level": 2,
+          "title": "Samesite Cookie属性",
+          "slug": "samesite-cookie属性"
+        },
+        {
+          "level": 2,
+          "title": "网络劫持有哪几种?",
+          "slug": "网络劫持有哪几种"
+        },
+        {
+          "level": 2,
+          "title": "如何应对网络劫持?",
+          "slug": "如何应对网络劫持"
+        },
+        {
+          "level": 2,
+          "title": "HTTPS一定是安全的吗?",
+          "slug": "https一定是安全的吗"
+        },
+        {
+          "level": 3,
+          "title": "非全站HTTPS并不安全",
+          "slug": "非全站https并不安全"
+        },
+        {
+          "level": 2,
+          "title": "中间人攻击",
+          "slug": "中间人攻击"
+        },
+        {
+          "level": 2,
+          "title": "公众号",
+          "slug": "公众号"
+        }
+      ]
+    },
+    {
+      "title": "TCP面试题",
+      "frontmatter": {},
+      "regularPath": "/guide/tcp.html",
+      "relativePath": "guide/tcp.md",
+      "key": "v-4f62381b",
+      "path": "/guide/tcp.html",
+      "headers": [
+        {
+          "level": 2,
+          "title": "列表",
+          "slug": "列表"
+        },
+        {
+          "level": 2,
+          "title": "TCP 的特性",
+          "slug": "tcp-的特性"
+        },
+        {
+          "level": 2,
+          "title": "请简述TCP\\UDP的区别",
+          "slug": "请简述tcp-udp的区别"
+        },
+        {
+          "level": 2,
+          "title": "TCP粘包是怎么回事，如何处理? ✨",
+          "slug": "tcp粘包是怎么回事，如何处理-✨"
+        },
+        {
+          "level": 2,
+          "title": "为什么udp不会粘包？",
+          "slug": "为什么udp不会粘包？"
+        },
+        {
+          "level": 2,
+          "title": "如何理解 TCP backlog？",
+          "slug": "如何理解-tcp-backlog？"
+        },
+        {
+          "level": 2,
+          "title": "常用端口号与对应的服务",
+          "slug": "常用端口号与对应的服务"
+        },
+        {
+          "level": 2,
+          "title": "说一说OSI七层模型",
+          "slug": "说一说osi七层模型"
+        },
+        {
+          "level": 2,
+          "title": "讲一下三次握手？✨",
+          "slug": "讲一下三次握手？✨"
+        },
+        {
+          "level": 2,
+          "title": "讲一下四次握手？✨",
+          "slug": "讲一下四次握手？✨"
+        },
+        {
+          "level": 2,
+          "title": "公众号",
+          "slug": "公众号"
+        }
+      ]
+    },
+    {
+      "title": "虚拟DOM原理",
+      "frontmatter": {},
+      "regularPath": "/guide/virtualDom.html",
+      "relativePath": "guide/virtualDom.md",
+      "key": "v-09cdba9a",
+      "path": "/guide/virtualDom.html",
+      "headers": [
+        {
+          "level": 2,
+          "title": "列表",
+          "slug": "列表"
+        },
+        {
+          "level": 2,
+          "title": "什么是Virtual DOM",
+          "slug": "什么是virtual-dom"
+        },
+        {
+          "level": 2,
+          "title": "为什么需要Virtual DOM",
+          "slug": "为什么需要virtual-dom"
+        },
+        {
+          "level": 2,
+          "title": "Virtual DOM的关键要素",
+          "slug": "virtual-dom的关键要素"
+        },
+        {
+          "level": 3,
+          "title": "Virtual DOM的创建",
+          "slug": "virtual-dom的创建"
+        },
+        {
+          "level": 3,
+          "title": "Virtual DOM Tree的创建",
+          "slug": "virtual-dom-tree的创建"
+        },
+        {
+          "level": 3,
+          "title": "Virtual DOM 的更新",
+          "slug": "virtual-dom-的更新"
+        },
+        {
+          "level": 3,
+          "title": "Virtual DOM 的diff",
+          "slug": "virtual-dom-的diff"
+        },
+        {
+          "level": 2,
+          "title": "Virtual DOM的优化",
+          "slug": "virtual-dom的优化"
+        },
+        {
+          "level": 2,
+          "title": "公众号",
+          "slug": "公众号"
+        }
+      ]
+    },
+    {
+      "title": "webpack loader实现",
+      "frontmatter": {},
+      "regularPath": "/guide/webpackLoader.html",
+      "relativePath": "guide/webpackLoader.md",
+      "key": "v-170ed8fb",
+      "path": "/guide/webpackLoader.html",
+      "headers": [
+        {
+          "level": 2,
+          "title": "什么是 Loader ？",
+          "slug": "什么是-loader-？"
+        },
+        {
+          "level": 2,
+          "title": "Loader 怎么用 ？",
+          "slug": "loader-怎么用-？"
+        },
+        {
+          "level": 3,
+          "title": "1. 配置 webpack config 文件",
+          "slug": "_1-配置-webpack-config-文件"
+        },
+        {
+          "level": 3,
+          "title": "2. 简单上手",
+          "slug": "_2-简单上手"
+        },
+        {
+          "level": 3,
+          "title": "3. 进阶使用",
+          "slug": "_3-进阶使用"
+        },
+        {
+          "level": 2,
+          "title": "用正确的姿势开发 Loader",
+          "slug": "用正确的姿势开发-loader"
+        },
+        {
+          "level": 3,
+          "title": "1.单一职责",
+          "slug": "_1-单一职责"
+        },
+        {
+          "level": 3,
+          "title": "2.链式组合",
+          "slug": "_2-链式组合"
+        },
+        {
+          "level": 3,
+          "title": "3.模块化",
+          "slug": "_3-模块化"
+        },
+        {
+          "level": 3,
+          "title": "4.无状态",
+          "slug": "_4-无状态"
+        },
+        {
+          "level": 3,
+          "title": "5.使用 Loader 实用工具",
+          "slug": "_5-使用-loader-实用工具"
+        },
+        {
+          "level": 3,
+          "title": "loader 的依赖",
+          "slug": "loader-的依赖"
+        },
+        {
+          "level": 3,
+          "title": "模块依赖",
+          "slug": "模块依赖"
+        },
+        {
+          "level": 3,
+          "title": "代码公用",
+          "slug": "代码公用"
+        },
+        {
+          "level": 3,
+          "title": "绝对路径",
+          "slug": "绝对路径"
+        },
+        {
+          "level": 3,
+          "title": "同伴依赖",
+          "slug": "同伴依赖"
+        },
+        {
+          "level": 2,
+          "title": "Talk is cheep",
+          "slug": "talk-is-cheep"
+        },
+        {
+          "level": 2,
+          "title": "总结",
+          "slug": "总结"
+        },
+        {
+          "level": 2,
+          "title": "公众号",
+          "slug": "公众号"
+        }
+      ]
+    },
+    {
+      "title": "React组件复用指南",
+      "frontmatter": {},
+      "regularPath": "/guide/abstract.html",
+      "relativePath": "guide/abstract.md",
+      "key": "v-5ac8fedd",
+      "path": "/guide/abstract.html",
+      "headers": [
+        {
+          "level": 2,
+          "title": "高阶组件(HOC)",
+          "slug": "高阶组件-hoc"
+        },
+        {
+          "level": 3,
+          "title": "什么是高阶组件？",
+          "slug": "什么是高阶组件？"
+        },
+        {
+          "level": 3,
+          "title": "HOC 工厂的实现方法",
+          "slug": "hoc-工厂的实现方法"
+        },
+        {
+          "level": 3,
+          "title": "反向继承(Inheritance Inversion)",
+          "slug": "反向继承-inheritance-inversion"
+        },
+        {
+          "level": 2,
+          "title": "Inheritance Inversion 的高阶组件不一定会解析完整子树",
+          "slug": "inheritance-inversion-的高阶组件不一定会解析完整子树"
+        },
+        {
+          "level": 3,
+          "title": "附录 A: HOC 和参数",
+          "slug": "附录-a-hoc-和参数"
+        },
+        {
+          "level": 2,
+          "title": "渲染属性(Render Props)",
+          "slug": "渲染属性-render-props"
+        },
+        {
+          "level": 3,
+          "title": "Mixins 存在的问题",
+          "slug": "mixins-存在的问题"
+        },
+        {
+          "level": 3,
+          "title": "HOC 是新的 Mixin",
+          "slug": "hoc-是新的-mixin"
+        },
+        {
+          "level": 3,
+          "title": "Render Props",
+          "slug": "render-props"
+        },
+        {
+          "level": 3,
+          "title": "Render Props > HOCs",
+          "slug": "render-props-hocs"
+        },
+        {
+          "level": 2,
+          "title": "公众号",
+          "slug": "公众号"
+        }
+      ]
+    },
+    {
+      "title": "如何写一个babel",
+      "frontmatter": {},
+      "regularPath": "/guide/ast.html",
+      "relativePath": "guide/ast.md",
+      "key": "v-9f60a30a",
+      "path": "/guide/ast.html",
       "headers": [
         {
           "level": 2,
@@ -1133,78 +3101,53 @@ export const siteData = {
         },
         {
           "level": 2,
-          "title": "基本构造",
-          "slug": "基本构造"
+          "title": "前置",
+          "slug": "前置"
+        },
+        {
+          "level": 2,
+          "title": "代码解析",
+          "slug": "代码解析"
         },
         {
           "level": 3,
-          "title": "初始化class",
-          "slug": "初始化class"
+          "title": "parser 概念",
+          "slug": "parser-概念"
         },
         {
           "level": 3,
-          "title": "监听与触发",
-          "slug": "监听与触发"
+          "title": "词法分析(Tokenizer -- 词法分析器)",
+          "slug": "词法分析-tokenizer-词法分析器"
         },
         {
           "level": 2,
-          "title": "升级改造",
-          "slug": "升级改造"
+          "title": "代码转换",
+          "slug": "代码转换"
         },
         {
           "level": 3,
-          "title": "监听/触发器升级",
-          "slug": "监听-触发器升级"
+          "title": "如何转换代码?",
+          "slug": "如何转换代码"
         },
         {
           "level": 3,
-          "title": "移除监听",
-          "slug": "移除监听"
+          "title": "遍历抽象语法树(实现遍历器traverser)",
+          "slug": "遍历抽象语法树-实现遍历器traverser"
         },
         {
           "level": 3,
-          "title": "发现问题",
-          "slug": "发现问题"
+          "title": "转换代码(实现转换器transformer)",
+          "slug": "转换代码-实现转换器transformer"
         },
         {
           "level": 2,
-          "title": "公众号",
-          "slug": "公众号"
-        }
-      ]
-    },
-    {
-      "title": "前端工程化",
-      "frontmatter": {},
-      "regularPath": "/guide/engineering.html",
-      "relativePath": "guide/engineering.md",
-      "key": "v-26928c16",
-      "path": "/guide/engineering.html",
-      "headers": [
-        {
-          "level": 2,
-          "title": "Babel的原理是什么?",
-          "slug": "babel的原理是什么"
+          "title": "生成代码(实现生成器generator)",
+          "slug": "生成代码-实现生成器generator"
         },
         {
           "level": 2,
-          "title": "如何写一个babel插件?",
-          "slug": "如何写一个babel插件"
-        },
-        {
-          "level": 2,
-          "title": "你的git工作流是怎样的?",
-          "slug": "你的git工作流是怎样的"
-        },
-        {
-          "level": 2,
-          "title": "rebase 与 merge的区别?",
-          "slug": "rebase-与-merge的区别"
-        },
-        {
-          "level": 2,
-          "title": "git reset、git revert 和 git checkout 有什么区别",
-          "slug": "git-reset、git-revert-和-git-checkout-有什么区别"
+          "title": "最后",
+          "slug": "最后"
         },
         {
           "level": 2,
@@ -1218,9 +3161,14 @@ export const siteData = {
       "frontmatter": {},
       "regularPath": "/guide/eventLoop.html",
       "relativePath": "guide/eventLoop.md",
-      "key": "v-0f593414",
+      "key": "v-a7036d8a",
       "path": "/guide/eventLoop.html",
       "headers": [
+        {
+          "level": 2,
+          "title": "Event Loop 问题",
+          "slug": "event-loop-问题"
+        },
         {
           "level": 2,
           "title": "前言",
@@ -1399,581 +3347,11 @@ export const siteData = {
       ]
     },
     {
-      "title": "前端性能优化-执行篇",
-      "frontmatter": {},
-      "regularPath": "/guide/execute.html",
-      "relativePath": "guide/execute.md",
-      "key": "v-09708bd6",
-      "path": "/guide/execute.html",
-      "headers": [
-        {
-          "level": 2,
-          "title": "动画性能优化",
-          "slug": "动画性能优化"
-        },
-        {
-          "level": 3,
-          "title": "CSS3动画优化原理",
-          "slug": "css3动画优化原理"
-        },
-        {
-          "level": 3,
-          "title": "CSS3动画优化",
-          "slug": "css3动画优化"
-        },
-        {
-          "level": 3,
-          "title": "Canvas动画优化",
-          "slug": "canvas动画优化"
-        },
-        {
-          "level": 2,
-          "title": "大量数据性能优化",
-          "slug": "大量数据性能优化"
-        },
-        {
-          "level": 3,
-          "title": "虚拟列表",
-          "slug": "虚拟列表"
-        },
-        {
-          "level": 3,
-          "title": "Web Worker",
-          "slug": "web-worker-2"
-        },
-        {
-          "level": 2,
-          "title": "公众号",
-          "slug": "公众号"
-        }
-      ]
-    },
-    {
-      "title": "React Fiber 架构解析",
-      "frontmatter": {},
-      "regularPath": "/guide/fiber.html",
-      "relativePath": "guide/fiber.md",
-      "key": "v-26cb8136",
-      "path": "/guide/fiber.html",
-      "headers": [
-        {
-          "level": 2,
-          "title": "背景介绍",
-          "slug": "背景介绍"
-        },
-        {
-          "level": 2,
-          "title": "从 React 元素到 Fiber 节点",
-          "slug": "从-react-元素到-fiber-节点"
-        },
-        {
-          "level": 3,
-          "title": "React 元素",
-          "slug": "react-元素"
-        },
-        {
-          "level": 3,
-          "title": "Fiber 节点",
-          "slug": "fiber-节点"
-        },
-        {
-          "level": 3,
-          "title": "current 树及 workInProgress 树",
-          "slug": "current-树及-workinprogress-树"
-        },
-        {
-          "level": 3,
-          "title": "副作用",
-          "slug": "副作用"
-        },
-        {
-          "level": 3,
-          "title": "副作用列表",
-          "slug": "副作用列表"
-        },
-        {
-          "level": 3,
-          "title": "Fiber 树的根节点",
-          "slug": "fiber-树的根节点"
-        },
-        {
-          "level": 3,
-          "title": "Fiber 节点结构",
-          "slug": "fiber-节点结构"
-        },
-        {
-          "level": 2,
-          "title": "通用算法",
-          "slug": "通用算法"
-        },
-        {
-          "level": 3,
-          "title": "Render 阶段",
-          "slug": "render-阶段"
-        },
-        {
-          "level": 3,
-          "title": "工作循环的主要步骤",
-          "slug": "工作循环的主要步骤"
-        },
-        {
-          "level": 3,
-          "title": "commit 阶段",
-          "slug": "commit-阶段"
-        },
-        {
-          "level": 3,
-          "title": "更新前的生命周期方法",
-          "slug": "更新前的生命周期方法"
-        },
-        {
-          "level": 3,
-          "title": "DOM 更新",
-          "slug": "dom-更新"
-        },
-        {
-          "level": 3,
-          "title": "更新后的生命周期方法",
-          "slug": "更新后的生命周期方法"
-        },
-        {
-          "level": 2,
-          "title": "公众号",
-          "slug": "公众号"
-        }
-      ]
-    },
-    {
-      "title": "关于前端框架的面试须知",
-      "frontmatter": {},
-      "regularPath": "/guide/framework.html",
-      "relativePath": "guide/framework.md",
-      "key": "v-1aa489f6",
-      "path": "/guide/framework.html",
-      "headers": [
-        {
-          "level": 2,
-          "title": "准备框架相关知识的误区",
-          "slug": "准备框架相关知识的误区"
-        },
-        {
-          "level": 3,
-          "title": "不要为了读源码而读源码",
-          "slug": "不要为了读源码而读源码"
-        },
-        {
-          "level": 3,
-          "title": "不建议读源码解读的文章",
-          "slug": "不建议读源码解读的文章"
-        },
-        {
-          "level": 3,
-          "title": "不建议为了面试而读源码",
-          "slug": "不建议为了面试而读源码"
-        },
-        {
-          "level": 2,
-          "title": "公众号",
-          "slug": "公众号"
-        }
-      ]
-    },
-    {
-      "title": "JavaScript的『预解释』与『变量提升』",
-      "frontmatter": {},
-      "regularPath": "/guide/hoisting.html",
-      "relativePath": "guide/hoisting.md",
-      "key": "v-0527eb44",
-      "path": "/guide/hoisting.html",
-      "headers": [
-        {
-          "level": 2,
-          "title": "前言",
-          "slug": "前言"
-        },
-        {
-          "level": 2,
-          "title": "从一个实例开始",
-          "slug": "从一个实例开始"
-        },
-        {
-          "level": 2,
-          "title": "avaScript预解释",
-          "slug": "avascript预解释"
-        },
-        {
-          "level": 2,
-          "title": "JavaScript执行环境",
-          "slug": "javascript执行环境"
-        },
-        {
-          "level": 2,
-          "title": "变量提升",
-          "slug": "变量提升"
-        },
-        {
-          "level": 2,
-          "title": "函数声明与函数表达式",
-          "slug": "函数声明与函数表达式"
-        },
-        {
-          "level": 2,
-          "title": "冲突处理",
-          "slug": "冲突处理"
-        },
-        {
-          "level": 2,
-          "title": "ES6中的let",
-          "slug": "es6中的let"
-        },
-        {
-          "level": 2,
-          "title": "公众号",
-          "slug": "公众号"
-        }
-      ]
-    },
-    {
-      "title": "如何通过HR面",
-      "frontmatter": {},
-      "regularPath": "/guide/hr.html",
-      "relativePath": "guide/hr.md",
-      "key": "v-26473748",
-      "path": "/guide/hr.html",
-      "headers": [
-        {
-          "level": 2,
-          "title": "HR面的目的",
-          "slug": "hr面的目的"
-        },
-        {
-          "level": 2,
-          "title": "HR面的常见问题",
-          "slug": "hr面的常见问题"
-        },
-        {
-          "level": 3,
-          "title": "你对未来3-5年的职业规划",
-          "slug": "你对未来3-5年的职业规划"
-        },
-        {
-          "level": 3,
-          "title": "如何看待加班(996)?",
-          "slug": "如何看待加班-996"
-        },
-        {
-          "level": 3,
-          "title": "面对大量超过自己承受能力且时间有限的工作时你会怎么办?",
-          "slug": "面对大量超过自己承受能力且时间有限的工作时你会怎么办"
-        },
-        {
-          "level": 3,
-          "title": "你之前在上海为什么现在来北京发展?",
-          "slug": "你之前在上海为什么现在来北京发展"
-        },
-        {
-          "level": 2,
-          "title": "为什么从上一家公司离职?",
-          "slug": "为什么从上一家公司离职"
-        },
-        {
-          "level": 2,
-          "title": "你还有其他公司的Offer吗?",
-          "slug": "你还有其他公司的offer吗"
-        },
-        {
-          "level": 2,
-          "title": "如何与HR谈薪资?",
-          "slug": "如何与hr谈薪资"
-        },
-        {
-          "level": 2,
-          "title": "公众号",
-          "slug": "公众号"
-        }
-      ]
-    },
-    {
-      "title": "HTML基础",
-      "frontmatter": {},
-      "regularPath": "/guide/htmlBasic.html",
-      "relativePath": "guide/htmlBasic.md",
-      "key": "v-7636ce16",
-      "path": "/guide/htmlBasic.html",
-      "headers": [
-        {
-          "level": 2,
-          "title": "doctype的作用是什么？✨",
-          "slug": "doctype的作用是什么？✨"
-        },
-        {
-          "level": 2,
-          "title": "这三种模式的区别是什么？",
-          "slug": "这三种模式的区别是什么？"
-        },
-        {
-          "level": 2,
-          "title": "HTML、XHTML、XML有什么区别",
-          "slug": "html、xhtml、xml有什么区别"
-        },
-        {
-          "level": 2,
-          "title": "什么是data-属性？",
-          "slug": "什么是data-属性？"
-        },
-        {
-          "level": 2,
-          "title": "你对HTML语义化的理解？✨",
-          "slug": "你对html语义化的理解？✨"
-        },
-        {
-          "level": 2,
-          "title": "HTML5与HTML4的不同之处",
-          "slug": "html5与html4的不同之处"
-        },
-        {
-          "level": 2,
-          "title": "有哪些常用的meta标签？",
-          "slug": "有哪些常用的meta标签？"
-        },
-        {
-          "level": 2,
-          "title": "src和href的区别？",
-          "slug": "src和href的区别？"
-        },
-        {
-          "level": 2,
-          "title": "知道img的srcset的作用是什么？（追问）",
-          "slug": "知道img的srcset的作用是什么？（追问）"
-        },
-        {
-          "level": 2,
-          "title": "还有哪一个标签能起到跟srcset相似作用？（追问）",
-          "slug": "还有哪一个标签能起到跟srcset相似作用？（追问）"
-        },
-        {
-          "level": 2,
-          "title": "script标签中defer和async的区别？✨",
-          "slug": "script标签中defer和async的区别？✨"
-        },
-        {
-          "level": 2,
-          "title": "有几种前端储存的方式？✨",
-          "slug": "有几种前端储存的方式？✨"
-        },
-        {
-          "level": 2,
-          "title": "这些方式的区别是什么？（追问）✨",
-          "slug": "这些方式的区别是什么？（追问）✨"
-        },
-        {
-          "level": 2,
-          "title": "公众号",
-          "slug": "公众号"
-        }
-      ]
-    },
-    {
-      "title": "HTTP协议",
-      "frontmatter": {},
-      "regularPath": "/guide/http.html",
-      "relativePath": "guide/http.md",
-      "key": "v-2610bfe8",
-      "path": "/guide/http.html",
-      "headers": [
-        {
-          "level": 2,
-          "title": "HTTP有哪些方法？",
-          "slug": "http有哪些方法？"
-        },
-        {
-          "level": 2,
-          "title": "这些方法的具体作用是什么？",
-          "slug": "这些方法的具体作用是什么？"
-        },
-        {
-          "level": 2,
-          "title": "GET和POST有什么区别？",
-          "slug": "get和post有什么区别？"
-        },
-        {
-          "level": 2,
-          "title": "PUT和POST都是给服务器发送新增资源，有什么区别？",
-          "slug": "put和post都是给服务器发送新增资源，有什么区别？"
-        },
-        {
-          "level": 2,
-          "title": "PUT和PATCH都是给服务器发送修改资源，有什么区别？",
-          "slug": "put和patch都是给服务器发送修改资源，有什么区别？"
-        },
-        {
-          "level": 2,
-          "title": "http的请求报文是什么样的？",
-          "slug": "http的请求报文是什么样的？"
-        },
-        {
-          "level": 2,
-          "title": "http的响应报文是什么样的？",
-          "slug": "http的响应报文是什么样的？"
-        },
-        {
-          "level": 2,
-          "title": "聊一聊HTTP的部首有哪些？",
-          "slug": "聊一聊http的部首有哪些？"
-        },
-        {
-          "level": 2,
-          "title": "聊一聊HTTP的状态码有哪些？",
-          "slug": "聊一聊http的状态码有哪些？"
-        },
-        {
-          "level": 2,
-          "title": "同样是重定向307，303，302的区别？",
-          "slug": "同样是重定向307，303，302的区别？"
-        },
-        {
-          "level": 2,
-          "title": "HTTP的keep-alive是干什么的？",
-          "slug": "http的keep-alive是干什么的？"
-        },
-        {
-          "level": 2,
-          "title": "为什么有了HTTP为什么还要HTTPS？",
-          "slug": "为什么有了http为什么还要https？"
-        },
-        {
-          "level": 2,
-          "title": "HTTPS是如何保证安全的？",
-          "slug": "https是如何保证安全的？"
-        },
-        {
-          "level": 2,
-          "title": "HTTP2相对于HTTP1.x有什么优势和特点？",
-          "slug": "http2相对于http1-x有什么优势和特点？"
-        },
-        {
-          "level": 3,
-          "title": "二进制分帧",
-          "slug": "二进制分帧"
-        },
-        {
-          "level": 3,
-          "title": "头部压缩",
-          "slug": "头部压缩"
-        },
-        {
-          "level": 3,
-          "title": "服务器推送",
-          "slug": "服务器推送"
-        },
-        {
-          "level": 3,
-          "title": "多路复用",
-          "slug": "多路复用"
-        },
-        {
-          "level": 2,
-          "title": "HTTP的缓存的过程是怎样的？",
-          "slug": "http的缓存的过程是怎样的？"
-        },
-        {
-          "level": 2,
-          "title": "什么时候会触发强缓存或者协商缓存？",
-          "slug": "什么时候会触发强缓存或者协商缓存？"
-        },
-        {
-          "level": 3,
-          "title": "强缓存",
-          "slug": "强缓存"
-        },
-        {
-          "level": 3,
-          "title": "协商缓存",
-          "slug": "协商缓存"
-        },
-        {
-          "level": 2,
-          "title": "公众号",
-          "slug": "公众号"
-        }
-      ]
-    },
-    {
-      "title": "HTTP笔试部分",
-      "frontmatter": {},
-      "regularPath": "/guide/httpWritten.html",
-      "relativePath": "guide/httpWritten.md",
-      "key": "v-0dcf6a96",
-      "path": "/guide/httpWritten.html",
-      "headers": [
-        {
-          "level": 2,
-          "title": "缓存题",
-          "slug": "缓存题"
-        },
-        {
-          "level": 3,
-          "title": "问题一：当点击“重新访问 page 页”链接重新加载该页面后， head.png 如何二次加载？",
-          "slug": "问题一：当点击“重新访问-page-页”链接重新加载该页面后，-head-png-如何二次加载？"
-        },
-        {
-          "level": 3,
-          "title": "问题二：如果将上述信息中的 Cache-Control 设置为 private，那么结果又会如何呢？",
-          "slug": "问题二：如果将上述信息中的-cache-control-设置为-private，那么结果又会如何呢？"
-        },
-        {
-          "level": 2,
-          "title": "公众号",
-          "slug": "公众号"
-        }
-      ]
-    },
-    {
-      "title": "实现不可变数据",
-      "frontmatter": {},
-      "regularPath": "/guide/immutable.html",
-      "relativePath": "guide/immutable.md",
-      "key": "v-c6715f14",
-      "path": "/guide/immutable.html",
-      "headers": [
-        {
-          "level": 2,
-          "title": "前言",
-          "slug": "前言"
-        },
-        {
-          "level": 2,
-          "title": "1.可变数据的副作用",
-          "slug": "_1-可变数据的副作用"
-        },
-        {
-          "level": 2,
-          "title": "2.不可变数据的解决方案",
-          "slug": "_2-不可变数据的解决方案"
-        },
-        {
-          "level": 2,
-          "title": "3.实现更简单的immutable",
-          "slug": "_3-实现更简单的immutable"
-        },
-        {
-          "level": 2,
-          "title": "总结",
-          "slug": "总结"
-        },
-        {
-          "level": 2,
-          "title": "公众号",
-          "slug": "公众号"
-        }
-      ]
-    },
-    {
       "title": "JavaScript基础",
       "frontmatter": {},
       "regularPath": "/guide/jsBasic.html",
       "relativePath": "guide/jsBasic.md",
-      "key": "v-6faacdd6",
+      "key": "v-246c1b9b",
       "path": "/guide/jsBasic.html",
       "headers": [
         {
@@ -2144,574 +3522,11 @@ export const siteData = {
       ]
     },
     {
-      "title": "JavaScript笔试部分",
-      "frontmatter": {},
-      "regularPath": "/guide/jsWritten.html",
-      "relativePath": "guide/jsWritten.md",
-      "key": "v-95dc5814",
-      "path": "/guide/jsWritten.html",
-      "headers": [
-        {
-          "level": 2,
-          "title": "实现防抖函数（debounce）",
-          "slug": "实现防抖函数（debounce）"
-        },
-        {
-          "level": 2,
-          "title": "实现节流函数（throttle）",
-          "slug": "实现节流函数（throttle）"
-        },
-        {
-          "level": 2,
-          "title": "深克隆（deepclone）",
-          "slug": "深克隆（deepclone）"
-        },
-        {
-          "level": 2,
-          "title": "实现Event(event bus)",
-          "slug": "实现event-event-bus"
-        },
-        {
-          "level": 2,
-          "title": "实现instanceOf",
-          "slug": "实现instanceof"
-        },
-        {
-          "level": 2,
-          "title": "模拟new",
-          "slug": "模拟new"
-        },
-        {
-          "level": 2,
-          "title": "实现一个call",
-          "slug": "实现一个call"
-        },
-        {
-          "level": 2,
-          "title": "实现apply方法",
-          "slug": "实现apply方法"
-        },
-        {
-          "level": 2,
-          "title": "实现bind",
-          "slug": "实现bind"
-        },
-        {
-          "level": 2,
-          "title": "模拟Object.create",
-          "slug": "模拟object-create"
-        },
-        {
-          "level": 2,
-          "title": "实现类的继承",
-          "slug": "实现类的继承"
-        },
-        {
-          "level": 2,
-          "title": "实现JSON.parse",
-          "slug": "实现json-parse"
-        },
-        {
-          "level": 2,
-          "title": "实现Promise",
-          "slug": "实现promise"
-        },
-        {
-          "level": 2,
-          "title": "公众号",
-          "slug": "公众号"
-        }
-      ]
-    },
-    {
-      "title": "前端性能优化-加载篇",
-      "frontmatter": {},
-      "regularPath": "/guide/load.html",
-      "relativePath": "guide/load.md",
-      "key": "v-1b672d60",
-      "path": "/guide/load.html",
-      "headers": [
-        {
-          "level": 2,
-          "title": "前言",
-          "slug": "前言"
-        },
-        {
-          "level": 2,
-          "title": "首屏加载",
-          "slug": "首屏加载"
-        },
-        {
-          "level": 3,
-          "title": "白屏的定义",
-          "slug": "白屏的定义"
-        },
-        {
-          "level": 3,
-          "title": "白屏加载的问题分析",
-          "slug": "白屏加载的问题分析"
-        },
-        {
-          "level": 3,
-          "title": "白屏的性能优化",
-          "slug": "白屏的性能优化"
-        },
-        {
-          "level": 3,
-          "title": "FMP(首次有意义绘制)",
-          "slug": "fmp-首次有意义绘制"
-        },
-        {
-          "level": 3,
-          "title": "TTI(可交互时间)",
-          "slug": "tti-可交互时间"
-        },
-        {
-          "level": 2,
-          "title": "组件加载",
-          "slug": "组件加载"
-        },
-        {
-          "level": 3,
-          "title": "组件懒加载",
-          "slug": "组件懒加载"
-        },
-        {
-          "level": 3,
-          "title": "组件预加载",
-          "slug": "组件预加载"
-        },
-        {
-          "level": 3,
-          "title": "keep-alive",
-          "slug": "keep-alive"
-        },
-        {
-          "level": 2,
-          "title": "小结",
-          "slug": "小结"
-        },
-        {
-          "level": 2,
-          "title": "公众号",
-          "slug": "公众号"
-        }
-      ]
-    },
-    {
-      "title": "JavaScript的运行机制",
-      "frontmatter": {},
-      "regularPath": "/guide/mechanism.html",
-      "relativePath": "guide/mechanism.md",
-      "key": "v-561489d6",
-      "path": "/guide/mechanism.html",
-      "headers": [
-        {
-          "level": 2,
-          "title": "JavaScript的执行环境",
-          "slug": "javascript的执行环境"
-        },
-        {
-          "level": 3,
-          "title": "JavaScript引擎(JavaScript Engine)",
-          "slug": "javascript引擎-javascript-engine"
-        },
-        {
-          "level": 3,
-          "title": "JavaScript运行时（JavaScript Runtime）",
-          "slug": "javascript运行时（javascript-runtime）"
-        },
-        {
-          "level": 3,
-          "title": "可执行代码",
-          "slug": "可执行代码"
-        },
-        {
-          "level": 2,
-          "title": "JavaScript执行",
-          "slug": "javascript执行"
-        },
-        {
-          "level": 3,
-          "title": "堆",
-          "slug": "堆"
-        },
-        {
-          "level": 3,
-          "title": "调用栈",
-          "slug": "调用栈"
-        },
-        {
-          "level": 3,
-          "title": "执行上下文(execution context)",
-          "slug": "执行上下文-execution-context"
-        },
-        {
-          "level": 3,
-          "title": "执行过程",
-          "slug": "执行过程"
-        },
-        {
-          "level": 2,
-          "title": "小结",
-          "slug": "小结"
-        },
-        {
-          "level": 3,
-          "title": "this是怎么被绑定的?",
-          "slug": "this是怎么被绑定的"
-        },
-        {
-          "level": 3,
-          "title": "作用域链是怎么形成的？",
-          "slug": "作用域链是怎么形成的？"
-        },
-        {
-          "level": 3,
-          "title": "闭包是怎么形成的？",
-          "slug": "闭包是怎么形成的？"
-        },
-        {
-          "level": 2,
-          "title": "公众号",
-          "slug": "公众号"
-        }
-      ]
-    },
-    {
-      "title": "JavaScript内存管理",
-      "frontmatter": {},
-      "regularPath": "/guide/memory.html",
-      "relativePath": "guide/memory.md",
-      "key": "v-2d28b59a",
-      "path": "/guide/memory.html",
-      "headers": [
-        {
-          "level": 2,
-          "title": "前言",
-          "slug": "前言"
-        },
-        {
-          "level": 2,
-          "title": "内存模型",
-          "slug": "内存模型"
-        },
-        {
-          "level": 2,
-          "title": "生命周期",
-          "slug": "生命周期"
-        },
-        {
-          "level": 2,
-          "title": "内存回收",
-          "slug": "内存回收"
-        },
-        {
-          "level": 3,
-          "title": "V8的内存分代",
-          "slug": "v8的内存分代"
-        },
-        {
-          "level": 3,
-          "title": "Stop The World （全停顿）",
-          "slug": "stop-the-world-（全停顿）"
-        },
-        {
-          "level": 3,
-          "title": "Scavenge 算法",
-          "slug": "scavenge-算法"
-        },
-        {
-          "level": 3,
-          "title": "对象晋升",
-          "slug": "对象晋升"
-        },
-        {
-          "level": 3,
-          "title": "Mark-Sweep & Mark-Compact",
-          "slug": "mark-sweep-mark-compact"
-        },
-        {
-          "level": 3,
-          "title": "Incremental Marking（增量标记）",
-          "slug": "incremental-marking（增量标记）"
-        },
-        {
-          "level": 3,
-          "title": "lazy sweeping（延迟清理）",
-          "slug": "lazy-sweeping（延迟清理）"
-        },
-        {
-          "level": 2,
-          "title": "内存泄露",
-          "slug": "内存泄露"
-        },
-        {
-          "level": 3,
-          "title": "引起内存泄漏的几个禁忌",
-          "slug": "引起内存泄漏的几个禁忌"
-        },
-        {
-          "level": 3,
-          "title": "查看内存泄漏",
-          "slug": "查看内存泄漏"
-        },
-        {
-          "level": 2,
-          "title": "公众号",
-          "slug": "公众号"
-        }
-      ]
-    },
-    {
-      "title": "为什么会有这个项目",
-      "frontmatter": {},
-      "regularPath": "/guide/preface.html",
-      "relativePath": "guide/preface.md",
-      "key": "v-13d67076",
-      "path": "/guide/preface.html",
-      "headers": [
-        {
-          "level": 2,
-          "title": "大量的过时问题",
-          "slug": "大量的过时问题"
-        },
-        {
-          "level": 2,
-          "title": "深入浅出的不多",
-          "slug": "深入浅出的不多"
-        },
-        {
-          "level": 2,
-          "title": "缺乏基础知识",
-          "slug": "缺乏基础知识"
-        },
-        {
-          "level": 2,
-          "title": "方向不够全面",
-          "slug": "方向不够全面"
-        }
-      ]
-    },
-    {
-      "title": "Node.js面试题",
-      "frontmatter": {},
-      "regularPath": "/guide/node.html",
-      "relativePath": "guide/node.md",
-      "key": "v-5d0cbb18",
-      "path": "/guide/node.html"
-    },
-    {
-      "title": "面试回答问题的技巧",
-      "frontmatter": {},
-      "regularPath": "/guide/project.html",
-      "relativePath": "guide/project.md",
-      "key": "v-571d1f56",
-      "path": "/guide/project.html",
-      "headers": [
-        {
-          "level": 2,
-          "title": "自我介绍",
-          "slug": "自我介绍"
-        },
-        {
-          "level": 3,
-          "title": "为什么需要自我介绍",
-          "slug": "为什么需要自我介绍"
-        },
-        {
-          "level": 3,
-          "title": "自我介绍的几个必备要素",
-          "slug": "自我介绍的几个必备要素"
-        },
-        {
-          "level": 3,
-          "title": "自我介绍要有目的性",
-          "slug": "自我介绍要有目的性"
-        },
-        {
-          "level": 3,
-          "title": "如何准备自我介绍",
-          "slug": "如何准备自我介绍"
-        },
-        {
-          "level": 2,
-          "title": "技术考察",
-          "slug": "技术考察"
-        },
-        {
-          "level": 3,
-          "title": "多重提问",
-          "slug": "多重提问"
-        },
-        {
-          "level": 3,
-          "title": "答题法则",
-          "slug": "答题法则"
-        },
-        {
-          "level": 3,
-          "title": "刻意引导",
-          "slug": "刻意引导"
-        },
-        {
-          "level": 2,
-          "title": "向面试官提问",
-          "slug": "向面试官提问"
-        },
-        {
-          "level": 2,
-          "title": "总结",
-          "slug": "总结"
-        },
-        {
-          "level": 2,
-          "title": "公众号",
-          "slug": "公众号"
-        }
-      ]
-    },
-    {
-      "title": "React面试题",
-      "frontmatter": {},
-      "regularPath": "/guide/react.html",
-      "relativePath": "guide/react.md",
-      "key": "v-7f195d96",
-      "path": "/guide/react.html",
-      "headers": [
-        {
-          "level": 2,
-          "title": "React最新的生命周期是怎样的?",
-          "slug": "react最新的生命周期是怎样的"
-        },
-        {
-          "level": 2,
-          "title": "React的请求应该放在哪个生命周期中?",
-          "slug": "react的请求应该放在哪个生命周期中"
-        },
-        {
-          "level": 2,
-          "title": "setState到底是异步还是同步?",
-          "slug": "setstate到底是异步还是同步"
-        },
-        {
-          "level": 2,
-          "title": "React组件通信如何实现?",
-          "slug": "react组件通信如何实现"
-        },
-        {
-          "level": 2,
-          "title": "React有哪些优化性能是手段?",
-          "slug": "react有哪些优化性能是手段"
-        },
-        {
-          "level": 2,
-          "title": "React如何进行组件/逻辑复用?",
-          "slug": "react如何进行组件-逻辑复用"
-        },
-        {
-          "level": 2,
-          "title": "mixin、hoc、render props、react-hooks的优劣如何？",
-          "slug": "mixin、hoc、render-props、react-hooks的优劣如何？"
-        },
-        {
-          "level": 2,
-          "title": "你是如何理解fiber的?",
-          "slug": "你是如何理解fiber的"
-        },
-        {
-          "level": 2,
-          "title": "你对 Time Slice的理解?",
-          "slug": "你对-time-slice的理解"
-        },
-        {
-          "level": 2,
-          "title": "redux的工作流程?",
-          "slug": "redux的工作流程"
-        },
-        {
-          "level": 2,
-          "title": "react-redux是如何工作的?",
-          "slug": "react-redux是如何工作的"
-        },
-        {
-          "level": 2,
-          "title": "redux与mobx的区别?",
-          "slug": "redux与mobx的区别"
-        },
-        {
-          "level": 2,
-          "title": "redux中如何进行异步操作?",
-          "slug": "redux中如何进行异步操作"
-        },
-        {
-          "level": 2,
-          "title": "redux异步中间件之间的优劣?",
-          "slug": "redux异步中间件之间的优劣"
-        },
-        {
-          "level": 2,
-          "title": "公众号",
-          "slug": "公众号"
-        }
-      ]
-    },
-    {
-      "title": "Vue的响应式系统",
-      "frontmatter": {},
-      "regularPath": "/guide/reactivity.html",
-      "relativePath": "guide/reactivity.md",
-      "key": "v-1f0a8450",
-      "path": "/guide/reactivity.html",
-      "headers": [
-        {
-          "level": 2,
-          "title": "响应式系统",
-          "slug": "响应式系统"
-        },
-        {
-          "level": 2,
-          "title": "发布订阅中心",
-          "slug": "发布订阅中心"
-        },
-        {
-          "level": 2,
-          "title": "监听者的实现",
-          "slug": "监听者的实现"
-        },
-        {
-          "level": 2,
-          "title": "订阅者的实现",
-          "slug": "订阅者的实现"
-        },
-        {
-          "level": 2,
-          "title": "批量更新的实现",
-          "slug": "批量更新的实现"
-        },
-        {
-          "level": 2,
-          "title": "梳理",
-          "slug": "梳理"
-        },
-        {
-          "level": 2,
-          "title": "响应式系统并不是全部",
-          "slug": "响应式系统并不是全部"
-        },
-        {
-          "level": 2,
-          "title": "公众号",
-          "slug": "公众号"
-        }
-      ]
-    },
-    {
       "title": "React-hooks 抽象组件",
       "frontmatter": {},
       "regularPath": "/guide/reactHook.html",
       "relativePath": "guide/reactHook.md",
-      "key": "v-612b2876",
+      "key": "v-15560bbb",
       "path": "/guide/reactHook.html",
       "headers": [
         {
@@ -2777,1001 +3592,11 @@ export const siteData = {
       ]
     },
     {
-      "title": "redux原理全解",
-      "frontmatter": {},
-      "regularPath": "/guide/redux.html",
-      "relativePath": "guide/redux.md",
-      "key": "v-07bf9b94",
-      "path": "/guide/redux.html",
-      "headers": [
-        {
-          "level": 2,
-          "title": "Redux是什么？",
-          "slug": "redux是什么？"
-        },
-        {
-          "level": 2,
-          "title": "为什么要用Redux？",
-          "slug": "为什么要用redux？"
-        },
-        {
-          "level": 2,
-          "title": "Redux思想追溯",
-          "slug": "redux思想追溯"
-        },
-        {
-          "level": 3,
-          "title": "什么是ES？",
-          "slug": "什么是es？"
-        },
-        {
-          "level": 3,
-          "title": "CQRS（Command Query Responsibility Segregation）是什么？",
-          "slug": "cqrs（command-query-responsibility-segregation）是什么？"
-        },
-        {
-          "level": 3,
-          "title": "Flux是什么？",
-          "slug": "flux是什么？"
-        },
-        {
-          "level": 2,
-          "title": "Redux的最佳实践",
-          "slug": "redux的最佳实践"
-        },
-        {
-          "level": 2,
-          "title": "简单实现Redux",
-          "slug": "简单实现redux"
-        },
-        {
-          "level": 3,
-          "title": "前言",
-          "slug": "前言"
-        },
-        {
-          "level": 3,
-          "title": "状态管理器",
-          "slug": "状态管理器"
-        },
-        {
-          "level": 3,
-          "title": "多文件协作",
-          "slug": "多文件协作"
-        },
-        {
-          "level": 3,
-          "title": "中间件 middleware",
-          "slug": "中间件-middleware"
-        },
-        {
-          "level": 3,
-          "title": "完整的 redux",
-          "slug": "完整的-redux"
-        },
-        {
-          "level": 3,
-          "title": "最佳实践",
-          "slug": "最佳实践"
-        },
-        {
-          "level": 3,
-          "title": "总结",
-          "slug": "总结"
-        },
-        {
-          "level": 2,
-          "title": "公众号",
-          "slug": "公众号"
-        }
-      ]
-    },
-    {
-      "title": "面试官到底想看什么样的简历？",
-      "frontmatter": {},
-      "regularPath": "/guide/resume.html",
-      "relativePath": "guide/resume.md",
-      "key": "v-0390a37c",
-      "path": "/guide/resume.html",
-      "headers": [
-        {
-          "level": 2,
-          "title": "简历准备",
-          "slug": "简历准备"
-        },
-        {
-          "level": 2,
-          "title": "准备简历模板",
-          "slug": "准备简历模板"
-        },
-        {
-          "level": 2,
-          "title": "准备个人信息",
-          "slug": "准备个人信息"
-        },
-        {
-          "level": 2,
-          "title": "准备专业技能",
-          "slug": "准备专业技能"
-        },
-        {
-          "level": 2,
-          "title": "准备工作经历",
-          "slug": "准备工作经历"
-        },
-        {
-          "level": 2,
-          "title": "准备项目经历",
-          "slug": "准备项目经历"
-        },
-        {
-          "level": 3,
-          "title": "切忌流水账写法",
-          "slug": "切忌流水账写法"
-        },
-        {
-          "level": 3,
-          "title": "切忌堆积项目",
-          "slug": "切忌堆积项目"
-        },
-        {
-          "level": 3,
-          "title": "切忌放虚假项目",
-          "slug": "切忌放虚假项目"
-        },
-        {
-          "level": 3,
-          "title": "合格的项目经历如何写",
-          "slug": "合格的项目经历如何写"
-        },
-        {
-          "level": 2,
-          "title": "教育背景",
-          "slug": "教育背景"
-        },
-        {
-          "level": 2,
-          "title": "几点注意事项",
-          "slug": "几点注意事项"
-        },
-        {
-          "level": 2,
-          "title": "你可能的疑问",
-          "slug": "你可能的疑问"
-        },
-        {
-          "level": 2,
-          "title": "总结",
-          "slug": "总结"
-        },
-        {
-          "level": 2,
-          "title": "公众号",
-          "slug": "公众号"
-        }
-      ]
-    },
-    {
-      "title": "前端路由的实现",
-      "frontmatter": {},
-      "regularPath": "/guide/router.html",
-      "relativePath": "guide/router.md",
-      "key": "v-5ad4eb0a",
-      "path": "/guide/router.html",
-      "headers": [
-        {
-          "level": 2,
-          "title": "前言",
-          "slug": "前言"
-        },
-        {
-          "level": 2,
-          "title": "1.hash路由",
-          "slug": "_1-hash路由"
-        },
-        {
-          "level": 3,
-          "title": "1.1 初始化class",
-          "slug": "_1-1-初始化class"
-        },
-        {
-          "level": 3,
-          "title": "1.2 实现路由hash储存与执行",
-          "slug": "_1-2-实现路由hash储存与执行"
-        },
-        {
-          "level": 3,
-          "title": "1.3 监听对应事件",
-          "slug": "_1-3-监听对应事件"
-        },
-        {
-          "level": 2,
-          "title": "2.增加回退功能",
-          "slug": "_2-增加回退功能"
-        },
-        {
-          "level": 3,
-          "title": "2.1 实现后退功能",
-          "slug": "_2-1-实现后退功能"
-        },
-        {
-          "level": 3,
-          "title": "2.2 完整实现hash Router",
-          "slug": "_2-2-完整实现hash-router"
-        },
-        {
-          "level": 2,
-          "title": "3. HTML5新路由方案",
-          "slug": "_3-html5新路由方案"
-        },
-        {
-          "level": 3,
-          "title": "3.1 History API",
-          "slug": "_3-1-history-api"
-        },
-        {
-          "level": 3,
-          "title": "3.2 新标准下路由的实现",
-          "slug": "_3-2-新标准下路由的实现"
-        },
-        {
-          "level": 2,
-          "title": "小结",
-          "slug": "小结"
-        },
-        {
-          "level": 2,
-          "title": "公众号",
-          "slug": "公众号"
-        }
-      ]
-    },
-    {
-      "title": "前端安全面试题",
-      "frontmatter": {},
-      "regularPath": "/guide/security.html",
-      "relativePath": "guide/security.md",
-      "key": "v-92f0bdc8",
-      "path": "/guide/security.html",
-      "headers": [
-        {
-          "level": 2,
-          "title": "有哪些可能引起前端安全的的问题?",
-          "slug": "有哪些可能引起前端安全的的问题"
-        },
-        {
-          "level": 2,
-          "title": "XSS分为哪几类?",
-          "slug": "xss分为哪几类"
-        },
-        {
-          "level": 3,
-          "title": "存储型 XSS",
-          "slug": "存储型-xss"
-        },
-        {
-          "level": 3,
-          "title": "反射型 XSS",
-          "slug": "反射型-xss"
-        },
-        {
-          "level": 3,
-          "title": "DOM 型 XSS",
-          "slug": "dom-型-xss"
-        },
-        {
-          "level": 2,
-          "title": "如何预防XSS?",
-          "slug": "如何预防xss"
-        },
-        {
-          "level": 3,
-          "title": "输入过滤",
-          "slug": "输入过滤"
-        },
-        {
-          "level": 3,
-          "title": "预防存储型和反射型 XSS 攻击",
-          "slug": "预防存储型和反射型-xss-攻击"
-        },
-        {
-          "level": 3,
-          "title": "预防 DOM 型 XSS 攻击",
-          "slug": "预防-dom-型-xss-攻击"
-        },
-        {
-          "level": 2,
-          "title": "其他 XSS 防范措施",
-          "slug": "其他-xss-防范措施"
-        },
-        {
-          "level": 3,
-          "title": "Content Security Policy",
-          "slug": "content-security-policy"
-        },
-        {
-          "level": 3,
-          "title": "输入内容长度控制",
-          "slug": "输入内容长度控制"
-        },
-        {
-          "level": 3,
-          "title": "其他安全措施",
-          "slug": "其他安全措施"
-        },
-        {
-          "level": 2,
-          "title": "CSRF是什么?",
-          "slug": "csrf是什么"
-        },
-        {
-          "level": 2,
-          "title": "CSRF的攻击类型?",
-          "slug": "csrf的攻击类型"
-        },
-        {
-          "level": 2,
-          "title": "如何预防CSRF?",
-          "slug": "如何预防csrf"
-        },
-        {
-          "level": 3,
-          "title": "同源检测",
-          "slug": "同源检测"
-        },
-        {
-          "level": 3,
-          "title": "CSRF Token",
-          "slug": "csrf-token"
-        },
-        {
-          "level": 3,
-          "title": "双重Cookie验证",
-          "slug": "双重cookie验证"
-        },
-        {
-          "level": 2,
-          "title": "Samesite Cookie属性",
-          "slug": "samesite-cookie属性"
-        },
-        {
-          "level": 2,
-          "title": "网络劫持有哪几种?",
-          "slug": "网络劫持有哪几种"
-        },
-        {
-          "level": 2,
-          "title": "如何应对网络劫持?",
-          "slug": "如何应对网络劫持"
-        },
-        {
-          "level": 2,
-          "title": "HTTPS一定是安全的吗?",
-          "slug": "https一定是安全的吗"
-        },
-        {
-          "level": 3,
-          "title": "非全站HTTPS并不安全",
-          "slug": "非全站https并不安全"
-        },
-        {
-          "level": 2,
-          "title": "中间人攻击",
-          "slug": "中间人攻击"
-        },
-        {
-          "level": 2,
-          "title": "公众号",
-          "slug": "公众号"
-        }
-      ]
-    },
-    {
-      "title": "字符串类面试题",
-      "frontmatter": {},
-      "regularPath": "/guide/string.html",
-      "relativePath": "guide/string.md",
-      "key": "v-00ee637a",
-      "path": "/guide/string.html",
-      "headers": [
-        {
-          "level": 2,
-          "title": "解析 URL Params 为对象",
-          "slug": "解析-url-params-为对象"
-        },
-        {
-          "level": 2,
-          "title": "模板引擎实现",
-          "slug": "模板引擎实现"
-        },
-        {
-          "level": 2,
-          "title": "转化为驼峰命名",
-          "slug": "转化为驼峰命名"
-        },
-        {
-          "level": 2,
-          "title": "查找字符串中出现最多的字符和个数",
-          "slug": "查找字符串中出现最多的字符和个数"
-        },
-        {
-          "level": 2,
-          "title": "字符串查找",
-          "slug": "字符串查找"
-        },
-        {
-          "level": 2,
-          "title": "实现千位分隔符",
-          "slug": "实现千位分隔符"
-        },
-        {
-          "level": 2,
-          "title": "判断是否是电话号码",
-          "slug": "判断是否是电话号码"
-        },
-        {
-          "level": 2,
-          "title": "验证是否是邮箱",
-          "slug": "验证是否是邮箱"
-        },
-        {
-          "level": 2,
-          "title": "验证是否是身份证",
-          "slug": "验证是否是身份证"
-        },
-        {
-          "level": 2,
-          "title": "公众号",
-          "slug": "公众号"
-        }
-      ]
-    },
-    {
-      "title": "setState到底是异步的还是同步的?",
-      "frontmatter": {},
-      "regularPath": "/guide/setState.html",
-      "relativePath": "guide/setState.md",
-      "key": "v-6598957e",
-      "path": "/guide/setState.html",
-      "headers": [
-        {
-          "level": 2,
-          "title": "setState真的是异步的吗 ？",
-          "slug": "setstate真的是异步的吗-？"
-        },
-        {
-          "level": 2,
-          "title": "一、合成事件中的`setState`",
-          "slug": "一、合成事件中的setstate"
-        },
-        {
-          "level": 2,
-          "title": "二、生命周期函数中的`setState`",
-          "slug": "二、生命周期函数中的setstate"
-        },
-        {
-          "level": 2,
-          "title": "三、原生事件中的`setState`",
-          "slug": "三、原生事件中的setstate"
-        },
-        {
-          "level": 2,
-          "title": "四、setTimeout中的`setState`",
-          "slug": "四、settimeout中的setstate"
-        },
-        {
-          "level": 2,
-          "title": "五、`setState`中的批量更新",
-          "slug": "五、setstate中的批量更新"
-        },
-        {
-          "level": 2,
-          "title": "最后看个🌰",
-          "slug": "最后看个🌰"
-        },
-        {
-          "level": 2,
-          "title": "总结 :",
-          "slug": "总结"
-        },
-        {
-          "level": 2,
-          "title": "公众号",
-          "slug": "公众号"
-        }
-      ]
-    },
-    {
-      "title": "虚拟DOM原理",
-      "frontmatter": {},
-      "regularPath": "/guide/virtualDom.html",
-      "relativePath": "guide/virtualDom.md",
-      "key": "v-b3cc06a4",
-      "path": "/guide/virtualDom.html",
-      "headers": [
-        {
-          "level": 2,
-          "title": "什么是Virtual DOM",
-          "slug": "什么是virtual-dom"
-        },
-        {
-          "level": 2,
-          "title": "为什么需要Virtual DOM",
-          "slug": "为什么需要virtual-dom"
-        },
-        {
-          "level": 2,
-          "title": "Virtual DOM的关键要素",
-          "slug": "virtual-dom的关键要素"
-        },
-        {
-          "level": 3,
-          "title": "Virtual DOM的创建",
-          "slug": "virtual-dom的创建"
-        },
-        {
-          "level": 3,
-          "title": "Virtual DOM Tree的创建",
-          "slug": "virtual-dom-tree的创建"
-        },
-        {
-          "level": 3,
-          "title": "Virtual DOM 的更新",
-          "slug": "virtual-dom-的更新"
-        },
-        {
-          "level": 3,
-          "title": "Virtual DOM 的diff",
-          "slug": "virtual-dom-的diff"
-        },
-        {
-          "level": 2,
-          "title": "Virtual DOM的优化",
-          "slug": "virtual-dom的优化"
-        },
-        {
-          "level": 2,
-          "title": "公众号",
-          "slug": "公众号"
-        }
-      ]
-    },
-    {
-      "title": "webpack loader实现",
-      "frontmatter": {},
-      "regularPath": "/guide/webpackLoader.html",
-      "relativePath": "guide/webpackLoader.md",
-      "key": "v-eff5ea94",
-      "path": "/guide/webpackLoader.html",
-      "headers": [
-        {
-          "level": 2,
-          "title": "什么是 Loader ？",
-          "slug": "什么是-loader-？"
-        },
-        {
-          "level": 2,
-          "title": "Loader 怎么用 ？",
-          "slug": "loader-怎么用-？"
-        },
-        {
-          "level": 3,
-          "title": "1. 配置 webpack config 文件",
-          "slug": "_1-配置-webpack-config-文件"
-        },
-        {
-          "level": 3,
-          "title": "2. 简单上手",
-          "slug": "_2-简单上手"
-        },
-        {
-          "level": 3,
-          "title": "3. 进阶使用",
-          "slug": "_3-进阶使用"
-        },
-        {
-          "level": 2,
-          "title": "用正确的姿势开发 Loader",
-          "slug": "用正确的姿势开发-loader"
-        },
-        {
-          "level": 3,
-          "title": "1.单一职责",
-          "slug": "_1-单一职责"
-        },
-        {
-          "level": 3,
-          "title": "2.链式组合",
-          "slug": "_2-链式组合"
-        },
-        {
-          "level": 3,
-          "title": "3.模块化",
-          "slug": "_3-模块化"
-        },
-        {
-          "level": 3,
-          "title": "4.无状态",
-          "slug": "_4-无状态"
-        },
-        {
-          "level": 3,
-          "title": "5.使用 Loader 实用工具",
-          "slug": "_5-使用-loader-实用工具"
-        },
-        {
-          "level": 3,
-          "title": "loader 的依赖",
-          "slug": "loader-的依赖"
-        },
-        {
-          "level": 3,
-          "title": "模块依赖",
-          "slug": "模块依赖"
-        },
-        {
-          "level": 3,
-          "title": "代码公用",
-          "slug": "代码公用"
-        },
-        {
-          "level": 3,
-          "title": "绝对路径",
-          "slug": "绝对路径"
-        },
-        {
-          "level": 3,
-          "title": "同伴依赖",
-          "slug": "同伴依赖"
-        },
-        {
-          "level": 2,
-          "title": "Talk is cheep",
-          "slug": "talk-is-cheep"
-        },
-        {
-          "level": 2,
-          "title": "总结",
-          "slug": "总结"
-        },
-        {
-          "level": 2,
-          "title": "公众号",
-          "slug": "公众号"
-        }
-      ]
-    },
-    {
-      "title": "Vue面试题",
-      "frontmatter": {},
-      "regularPath": "/guide/vue.html",
-      "relativePath": "guide/vue.md",
-      "key": "v-14935594",
-      "path": "/guide/vue.html",
-      "headers": [
-        {
-          "level": 2,
-          "title": "你对MVVM的理解?",
-          "slug": "你对mvvm的理解"
-        },
-        {
-          "level": 3,
-          "title": "MVVM是什么?",
-          "slug": "mvvm是什么"
-        },
-        {
-          "level": 3,
-          "title": "MVVM的优缺点?",
-          "slug": "mvvm的优缺点"
-        },
-        {
-          "level": 2,
-          "title": "你对Vue生命周期的理解？",
-          "slug": "你对vue生命周期的理解？"
-        },
-        {
-          "level": 3,
-          "title": "生命周期是什么",
-          "slug": "生命周期是什么"
-        },
-        {
-          "level": 3,
-          "title": "各个生命周期的作用",
-          "slug": "各个生命周期的作用"
-        },
-        {
-          "level": 3,
-          "title": "生命周期示意图",
-          "slug": "生命周期示意图"
-        },
-        {
-          "level": 2,
-          "title": "异步请求适合在哪个生命周期调用？",
-          "slug": "异步请求适合在哪个生命周期调用？"
-        },
-        {
-          "level": 2,
-          "title": "Vue组件如何通信？",
-          "slug": "vue组件如何通信？"
-        },
-        {
-          "level": 2,
-          "title": "computed和watch有什么区别?",
-          "slug": "computed和watch有什么区别"
-        },
-        {
-          "level": 2,
-          "title": "Vue是如何实现双向绑定的?",
-          "slug": "vue是如何实现双向绑定的"
-        },
-        {
-          "level": 2,
-          "title": "Proxy与Object.defineProperty的优劣对比?",
-          "slug": "proxy与object-defineproperty的优劣对比"
-        },
-        {
-          "level": 2,
-          "title": "你是如何理解Vue的响应式系统的?",
-          "slug": "你是如何理解vue的响应式系统的"
-        },
-        {
-          "level": 2,
-          "title": "既然Vue通过数据劫持可以精准探测数据变化,为什么还需要虚拟DOM进行diff检测差异?",
-          "slug": "既然vue通过数据劫持可以精准探测数据变化-为什么还需要虚拟dom进行diff检测差异"
-        },
-        {
-          "level": 2,
-          "title": "Vue为什么没有类似于React中shouldComponentUpdate的生命周期？",
-          "slug": "vue为什么没有类似于react中shouldcomponentupdate的生命周期？"
-        },
-        {
-          "level": 2,
-          "title": "Vue中的key到底有什么用？",
-          "slug": "vue中的key到底有什么用？"
-        },
-        {
-          "level": 2,
-          "title": "公众号",
-          "slug": "公众号"
-        }
-      ]
-    },
-    {
-      "title": "TCP面试题",
-      "frontmatter": {},
-      "regularPath": "/guide/tcp.html",
-      "relativePath": "guide/tcp.md",
-      "key": "v-176f5554",
-      "path": "/guide/tcp.html",
-      "headers": [
-        {
-          "level": 2,
-          "title": "TCP 的特性",
-          "slug": "tcp-的特性"
-        },
-        {
-          "level": 2,
-          "title": "请简述TCP\\UDP的区别",
-          "slug": "请简述tcp-udp的区别"
-        },
-        {
-          "level": 2,
-          "title": "TCP粘包是怎么回事，如何处理? ✨",
-          "slug": "tcp粘包是怎么回事，如何处理-✨"
-        },
-        {
-          "level": 2,
-          "title": "为什么udp不会粘包？",
-          "slug": "为什么udp不会粘包？"
-        },
-        {
-          "level": 2,
-          "title": "如何理解 TCP backlog？",
-          "slug": "如何理解-tcp-backlog？"
-        },
-        {
-          "level": 2,
-          "title": "常用端口号与对应的服务",
-          "slug": "常用端口号与对应的服务"
-        },
-        {
-          "level": 2,
-          "title": "说一说OSI七层模型",
-          "slug": "说一说osi七层模型"
-        },
-        {
-          "level": 2,
-          "title": "讲一下三次握手？✨",
-          "slug": "讲一下三次握手？✨"
-        },
-        {
-          "level": 2,
-          "title": "讲一下四次握手？✨",
-          "slug": "讲一下四次握手？✨"
-        },
-        {
-          "level": 2,
-          "title": "公众号",
-          "slug": "公众号"
-        }
-      ]
-    },
-    {
-      "title": "webpack面试题",
-      "frontmatter": {},
-      "regularPath": "/guide/webpack.html",
-      "relativePath": "guide/webpack.md",
-      "key": "v-87310654",
-      "path": "/guide/webpack.html",
-      "headers": [
-        {
-          "level": 2,
-          "title": "webpack与grunt、gulp的不同？",
-          "slug": "webpack与grunt、gulp的不同？"
-        },
-        {
-          "level": 2,
-          "title": "webpack、rollup、parcel优劣？",
-          "slug": "webpack、rollup、parcel优劣？"
-        },
-        {
-          "level": 2,
-          "title": "有哪些常见的Loader？",
-          "slug": "有哪些常见的loader？"
-        },
-        {
-          "level": 2,
-          "title": "有哪些常见的Plugin？",
-          "slug": "有哪些常见的plugin？"
-        },
-        {
-          "level": 2,
-          "title": "分别介绍bundle，chunk，module是什么",
-          "slug": "分别介绍bundle，chunk，module是什么"
-        },
-        {
-          "level": 2,
-          "title": "Loader和Plugin的不同？",
-          "slug": "loader和plugin的不同？"
-        },
-        {
-          "level": 2,
-          "title": "webpack的构建流程是什么?",
-          "slug": "webpack的构建流程是什么"
-        },
-        {
-          "level": 2,
-          "title": "是否写过Loader和Plugin？描述一下编写loader或plugin的思路？",
-          "slug": "是否写过loader和plugin？描述一下编写loader或plugin的思路？"
-        },
-        {
-          "level": 2,
-          "title": "webpack的热更新是如何做到的？说明其原理？",
-          "slug": "webpack的热更新是如何做到的？说明其原理？"
-        },
-        {
-          "level": 2,
-          "title": "如何用webpack来优化前端性能？",
-          "slug": "如何用webpack来优化前端性能？"
-        },
-        {
-          "level": 2,
-          "title": "如何提高webpack的打包速度?",
-          "slug": "如何提高webpack的打包速度"
-        },
-        {
-          "level": 2,
-          "title": "如何提高webpack的构建速度？",
-          "slug": "如何提高webpack的构建速度？"
-        },
-        {
-          "level": 2,
-          "title": "怎么配置单页应用？怎么配置多页应用？",
-          "slug": "怎么配置单页应用？怎么配置多页应用？"
-        },
-        {
-          "level": 2,
-          "title": "公众号",
-          "slug": "公众号"
-        }
-      ]
-    },
-    {
-      "title": "Webpack 模块机制",
-      "frontmatter": {},
-      "regularPath": "/guide/webpackMoudle.html",
-      "relativePath": "guide/webpackMoudle.md",
-      "key": "v-4a243ed4",
-      "path": "/guide/webpackMoudle.html",
-      "headers": [
-        {
-          "level": 3,
-          "title": "准备点材料",
-          "slug": "准备点材料"
-        },
-        {
-          "level": 3,
-          "title": "模块初始化函数",
-          "slug": "模块初始化函数"
-        },
-        {
-          "level": 3,
-          "title": "modules && _webpackexports__",
-          "slug": "modules-webpack-exports"
-        },
-        {
-          "level": 3,
-          "title": "模块 id",
-          "slug": "模块-id"
-        },
-        {
-          "level": 3,
-          "title": "require 函数",
-          "slug": "require-函数"
-        },
-        {
-          "level": 3,
-          "title": "最后，我们来改造一下 bundle.js",
-          "slug": "最后，我们来改造一下-bundle-js"
-        },
-        {
-          "level": 3,
-          "title": "总结",
-          "slug": "总结"
-        },
-        {
-          "level": 2,
-          "title": "公众号",
-          "slug": "公众号"
-        }
-      ]
-    },
-    {
-      "title": "webpack 插件化设计",
-      "frontmatter": {},
-      "regularPath": "/guide/webpackPluginDesign.html",
-      "relativePath": "guide/webpackPluginDesign.md",
-      "key": "v-79883036",
-      "path": "/guide/webpackPluginDesign.html",
-      "headers": [
-        {
-          "level": 2,
-          "title": "前言",
-          "slug": "前言"
-        },
-        {
-          "level": 2,
-          "title": "事件系统",
-          "slug": "事件系统"
-        },
-        {
-          "level": 2,
-          "title": "插件化设计",
-          "slug": "插件化设计"
-        },
-        {
-          "level": 2,
-          "title": "执行实例",
-          "slug": "执行实例"
-        },
-        {
-          "level": 2,
-          "title": "总结",
-          "slug": "总结"
-        },
-        {
-          "level": 2,
-          "title": "公众号",
-          "slug": "公众号"
-        }
-      ]
-    },
-    {
       "title": "webpack插件编写",
       "frontmatter": {},
       "regularPath": "/guide/webpackPlugin.html",
       "relativePath": "guide/webpackPlugin.md",
-      "key": "v-53678eb6",
+      "key": "v-3b1d460a",
       "path": "/guide/webpackPlugin.html",
       "headers": [
         {
@@ -3873,6 +3698,271 @@ export const siteData = {
           "level": 3,
           "title": "编写插件",
           "slug": "编写插件"
+        },
+        {
+          "level": 2,
+          "title": "公众号",
+          "slug": "公众号"
+        }
+      ]
+    },
+    {
+      "title": "React Fiber 架构解析",
+      "frontmatter": {},
+      "regularPath": "/guide/fiber.html",
+      "relativePath": "guide/fiber.md",
+      "key": "v-6e070d0a",
+      "path": "/guide/fiber.html",
+      "headers": [
+        {
+          "level": 2,
+          "title": "背景介绍",
+          "slug": "背景介绍"
+        },
+        {
+          "level": 2,
+          "title": "从 React 元素到 Fiber 节点",
+          "slug": "从-react-元素到-fiber-节点"
+        },
+        {
+          "level": 3,
+          "title": "React 元素",
+          "slug": "react-元素"
+        },
+        {
+          "level": 3,
+          "title": "Fiber 节点",
+          "slug": "fiber-节点"
+        },
+        {
+          "level": 3,
+          "title": "current 树及 workInProgress 树",
+          "slug": "current-树及-workinprogress-树"
+        },
+        {
+          "level": 3,
+          "title": "副作用",
+          "slug": "副作用"
+        },
+        {
+          "level": 3,
+          "title": "副作用列表",
+          "slug": "副作用列表"
+        },
+        {
+          "level": 3,
+          "title": "Fiber 树的根节点",
+          "slug": "fiber-树的根节点"
+        },
+        {
+          "level": 3,
+          "title": "Fiber 节点结构",
+          "slug": "fiber-节点结构"
+        },
+        {
+          "level": 2,
+          "title": "通用算法",
+          "slug": "通用算法"
+        },
+        {
+          "level": 3,
+          "title": "Render 阶段",
+          "slug": "render-阶段"
+        },
+        {
+          "level": 3,
+          "title": "工作循环的主要步骤",
+          "slug": "工作循环的主要步骤"
+        },
+        {
+          "level": 3,
+          "title": "commit 阶段",
+          "slug": "commit-阶段"
+        },
+        {
+          "level": 3,
+          "title": "更新前的生命周期方法",
+          "slug": "更新前的生命周期方法"
+        },
+        {
+          "level": 3,
+          "title": "DOM 更新",
+          "slug": "dom-更新"
+        },
+        {
+          "level": 3,
+          "title": "更新后的生命周期方法",
+          "slug": "更新后的生命周期方法"
+        },
+        {
+          "level": 2,
+          "title": "公众号",
+          "slug": "公众号"
+        }
+      ]
+    },
+    {
+      "title": "前端性能优化-加载篇",
+      "frontmatter": {},
+      "regularPath": "/guide/load.html",
+      "relativePath": "guide/load.md",
+      "key": "v-230ea256",
+      "path": "/guide/load.html",
+      "headers": [
+        {
+          "level": 2,
+          "title": "列表",
+          "slug": "列表"
+        },
+        {
+          "level": 2,
+          "title": "前言",
+          "slug": "前言"
+        },
+        {
+          "level": 2,
+          "title": "首屏加载",
+          "slug": "首屏加载"
+        },
+        {
+          "level": 3,
+          "title": "白屏的定义",
+          "slug": "白屏的定义"
+        },
+        {
+          "level": 3,
+          "title": "白屏加载的问题分析",
+          "slug": "白屏加载的问题分析"
+        },
+        {
+          "level": 3,
+          "title": "白屏的性能优化",
+          "slug": "白屏的性能优化"
+        },
+        {
+          "level": 3,
+          "title": "FMP(首次有意义绘制)",
+          "slug": "fmp-首次有意义绘制"
+        },
+        {
+          "level": 3,
+          "title": "TTI(可交互时间)",
+          "slug": "tti-可交互时间"
+        },
+        {
+          "level": 2,
+          "title": "组件加载",
+          "slug": "组件加载"
+        },
+        {
+          "level": 3,
+          "title": "组件懒加载",
+          "slug": "组件懒加载"
+        },
+        {
+          "level": 3,
+          "title": "组件预加载",
+          "slug": "组件预加载"
+        },
+        {
+          "level": 3,
+          "title": "keep-alive",
+          "slug": "keep-alive"
+        },
+        {
+          "level": 2,
+          "title": "小结",
+          "slug": "小结"
+        },
+        {
+          "level": 2,
+          "title": "公众号",
+          "slug": "公众号"
+        }
+      ]
+    },
+    {
+      "title": "redux原理全解",
+      "frontmatter": {},
+      "regularPath": "/guide/redux.html",
+      "relativePath": "guide/redux.md",
+      "key": "v-c35dab0a",
+      "path": "/guide/redux.html",
+      "headers": [
+        {
+          "level": 2,
+          "title": "Redux是什么？",
+          "slug": "redux是什么？"
+        },
+        {
+          "level": 2,
+          "title": "为什么要用Redux？",
+          "slug": "为什么要用redux？"
+        },
+        {
+          "level": 2,
+          "title": "Redux思想追溯",
+          "slug": "redux思想追溯"
+        },
+        {
+          "level": 3,
+          "title": "什么是ES？",
+          "slug": "什么是es？"
+        },
+        {
+          "level": 3,
+          "title": "CQRS（Command Query Responsibility Segregation）是什么？",
+          "slug": "cqrs（command-query-responsibility-segregation）是什么？"
+        },
+        {
+          "level": 3,
+          "title": "Flux是什么？",
+          "slug": "flux是什么？"
+        },
+        {
+          "level": 2,
+          "title": "Redux的最佳实践",
+          "slug": "redux的最佳实践"
+        },
+        {
+          "level": 2,
+          "title": "简单实现Redux",
+          "slug": "简单实现redux"
+        },
+        {
+          "level": 3,
+          "title": "前言",
+          "slug": "前言"
+        },
+        {
+          "level": 3,
+          "title": "状态管理器",
+          "slug": "状态管理器"
+        },
+        {
+          "level": 3,
+          "title": "多文件协作",
+          "slug": "多文件协作"
+        },
+        {
+          "level": 3,
+          "title": "中间件 middleware",
+          "slug": "中间件-middleware"
+        },
+        {
+          "level": 3,
+          "title": "完整的 redux",
+          "slug": "完整的-redux"
+        },
+        {
+          "level": 3,
+          "title": "最佳实践",
+          "slug": "最佳实践"
+        },
+        {
+          "level": 3,
+          "title": "总结",
+          "slug": "总结"
         },
         {
           "level": 2,

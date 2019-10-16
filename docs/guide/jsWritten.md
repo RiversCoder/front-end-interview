@@ -2,7 +2,23 @@
 
 点击关注本[公众号](#公众号)获取文档最新更新,并可以领取配套于本指南的 **《前端面试手册》** 以及**最标准的简历模板**.
 
+* 实现防抖函数（debounce）
+* 实现节流函数（throttle）
+* 深克隆（deepclone）
+* 实现Event(event bus)
+* 实现instanceOf
+* 模拟new
+* 实现一个call
+* 实现apply方法
+* 实现bind
+* 模拟Object.create
+* 实现类的继承
+* 实现JSON.parse
+* 实现Promise
+
 ## 实现防抖函数（debounce）
+
+
 
 防抖函数原理：在事件被触发n秒后再执行回调，如果在这n秒内又被触发，则重新计时。
 

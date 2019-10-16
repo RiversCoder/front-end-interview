@@ -1,1 +1,1 @@
-export { default } from "/Users/dxy/Documents/dxy-gzh/front-end-interview/node_modules/@vuepress/plugin-back-to-top/enhanceAppFile.js"
+export { default } from "D:\\me\\vue\\vuepress\\front-end-interview\\node_modules\\_@vuepress_plugin-back-to-top@1.2.0@@vuepress\\plugin-back-to-top\\enhanceAppFile.js"
